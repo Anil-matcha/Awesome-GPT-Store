@@ -58,6 +58,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness coach with workout visuals and resources.
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) - Organizes and tracks medication schedules.
 - [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in and off the field
+- [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjPEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor. 
+
 
 ## Miscellaneous
 - [AI Websites](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites) - Creates professional websites quickly.
