@@ -21,6 +21,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint) - I challenge ideas to provoke thought.
 - [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom) - Extracts key insights from texts.
 - [Hacker Art](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0) - Crafts hacker-themed art and profile pictures.
+- [Luminous Logos](https://chat.openai.com/g/g-Jpx5zBJUC-luminous-logos) - Craft eye catching logos and icons with a special vibrant gradient touch.
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
 - [Storyteller](https://chat.openai.com/g/g-dmgFloZ5w-storyteller) - Weaves stories with a blend of writing and design.
 - [Cakes](https://chat.openai.com/g/g-iR4UIvIX2-cakes) - Send a gift to your cares
@@ -35,13 +36,16 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togheter, right now..
 
 ## Entertainment and Fun
+- [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt) - The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
 - [Ekko Support Specialist](https://chat.openai.com/g/g-cxFRZ3mWq-ekko-support-specialist) - How to be a master of surprise plays and unconventional strategies in the bot lane as a support role.
+- [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator) - I turn your text into Emoji
 - [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper) - I keep score, for games.
 - [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) - Transcribes and summarizes audio content.
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
 - [ToonGPT](Turn drawings into illustrations!) - https://chat.openai.com/g/g-Jsefk8PeL-toongpt.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
+- [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.  
 
 ## Education and Learning
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
@@ -54,12 +58,13 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) - a daily challenge
 
 ## Fitness and Health
+- [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
 - [Chef Gpt](https://chat.openai.com/g/g-gX6f9h3yO-chef-gpt) - Make home cooking easy and fun.
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness coach with workout visuals and resources.
-- [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) - Organizes and tracks medication schedules.
 - [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in and off the field
+- [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) - Organizes and tracks medication schedules.
+- [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) - I help gardners grow their plants and offer visual aids if needed.
 - [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjPEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor. 
-
 
 ## Miscellaneous
 - [AI Websites](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites) - Creates professional websites quickly.
@@ -70,6 +75,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [The Stoic Council](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council) - Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus.
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans.
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve) - CVE data lookup
+- [Waste Wizard](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard) - I turn your waste into wonders with ideas, steps, pictures.
+- [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb
 
 
 
