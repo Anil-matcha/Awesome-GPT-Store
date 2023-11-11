@@ -14,6 +14,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) - GPT chatbot specializing in XGBoost algorithm and library.
 - [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support) - Quick command-line help and code snippets, defaults to Linux & Python.
 - [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
+- [ExtractTableGPT](https://chat.openai.com/g/g-KbifnBjyz-extracttablegpt) - Extract table data from any docs into multiple formats.
 
 ## Writing and Content Creation
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Writing assistant for academic and professional needs.
@@ -29,12 +30,14 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [ZILL·O](https://chat.openai.com/g/g-GvEjrjX6o-zill-o) - is here
 
 ## Coding and Development
+- [CodeCompanion](https://chat.openai.com/g/g-UwSunyiYn-code-companion) - I'm a Python specialist here to help you code and learn!
 - [CodeCopilot](https://chat.openai.com/g/g-2DQzU5UZl) - Pair programming assistant for various coding tasks.
 - [Developer Doc Search](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search) - Searches open source packages and their documentation.
+- [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togheter, right now..
 - [Flutter App Maker 3000](https://chat.openai.com/g/g-sizZKl9zO-flutter-app-maker-3000) - A hands-on guide for building Flutter apps step by step.
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Assists with Ruby programming.
-- [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togheter, right now..
-- [CodeCompanion](https://chat.openai.com/g/g-UwSunyiYn-code-companion) - I'm a Python specialist here to help you code and learn!
+- [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
+- [Flowbite GPT)[https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt] - Create websites based on the Flowbite UI Library and Tailwind CSS.
 
 ## Entertainment and Fun
 - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with.
@@ -49,10 +52,13 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
 - [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.  
+- [GPTarantinofy](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy) - Turns anything into a Tarantino styled scene.
+- [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters, from the user's photos.  
 
 ## Education and Learning
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
 - [Communication Coach](https://chat.openai.com/g/g-cvL6Fk76M-communication-coach) - I help overthinkers communicate better. Built by Become More Compelling.
+- [Conceptmap](https://chat.openai.com/g/g-ce1JVgzLI-conceptmap) - Create concepts and structure them in a map. Keep ideas and retrieve them whenever you need them.
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Helps in learning new languages.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - Assists parents and students with math problems.
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Research assistant for scientific papers.
@@ -61,11 +67,14 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) - a daily challenge
 - [Python Tutor](https://chat.openai.com/g/g-uY1Ec6U1T-python-tutor) - A Python tutor creating stepwise coding challenges.
 - [Physics Problem Creator](https://chat.openai.com/g/g-PRMFOZtRh-physics-problem-creator) - Craft tricky physics sets for learning, helping teachers create problem sets. 
+- [Six-Y](https://chat.openai.com/g/g-nMt5YfTeF-six-y) - Explains everything like you are 6 years old, and also paints an image of it.
+
 
 ## Fitness and Health
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
 - [Chef Gpt](https://chat.openai.com/g/g-gX6f9h3yO-chef-gpt) - Make home cooking easy and fun.
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness coach with workout visuals and resources.
+- [MyNutrition.Pal](https://chat.openai.com/g/g-PsK6IFvcV-mynutrition-pal) - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
 - [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in and off the field
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) - Organizes and tracks medication schedules.
 - [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) - I help gardners grow their plants and offer visual aids if needed.
@@ -73,17 +82,18 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 
 ## Miscellaneous
 - [AI Websites](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites) - Creates professional websites quickly.
+- [Conto alla romana](https://chat.openai.com/g/g-KHejMFXCx-conto-alla-romana) - Quickly calculates cost per person for groups
 - [Currency Converter](https://chat.openai.com/g/g-ZNvavsN3l) - Real-time currency conversion tool.
 - [Lunch Wheel](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel) - Helps you decide where to eat based on where you are and what you're in the mood for. Spin the wheel!
 - [FlexChat.ai Guide](https://chat.openai.com/g/g-UMvFKMQxt-flexchat-ai-guide) - A FlexChat.ai Tutor
 - [Product Coach](https://chat.openai.com/g/g-e0xH6MMQs-product-coach) - Provides insights for product development.
-- [Conto alla romana](https://chat.openai.com/g/g-KHejMFXCx-conto-alla-romana) - Quickly calculates cost per person for groups
+- [Seat Seeker](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker) - Finding the right place for you.
 - [The Stoic Council](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council) - Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus.
+- [Touch Up Paint Helper](https://chat.openai.com/g/g-ulC8M1cJn-touch-up-paint-helper) - How to use automotive touch-up paint to fix scratches and chips on your car.
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans.
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve) - CVE data lookup
 - [Waste Wizard](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard) - I turn your waste into wonders with ideas, steps, pictures.
 - [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb
-- [Touch Up Paint Helper](https://chat.openai.com/g/g-ulC8M1cJn-touch-up-paint-helper) - How to use automotive touch-up paint to fix scratches and chips on your car.
 
 
 
