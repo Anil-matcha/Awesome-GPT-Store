@@ -14,6 +14,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) - GPT chatbot specializing in XGBoost algorithm and library.
 - [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support) - Quick command-line help and code snippets, defaults to Linux & Python.
 - [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
+- [ExtractTableGPT](https://chat.openai.com/g/g-KbifnBjyz-extracttablegpt) - Extract table data from any docs into multiple formats.
 
 ## Writing and Content Creation
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Writing assistant for academic and professional needs.
@@ -51,6 +52,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
 - [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.  
 - [GPTarantinofy](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy) - Turns anything into a Tarantino styled scene.
+- [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters, from the user's photos.  
 
 ## Education and Learning
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
