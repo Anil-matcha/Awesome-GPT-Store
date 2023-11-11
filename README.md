@@ -1,3 +1,18 @@
+ # GPT-Swarm GPT´s
+A curated list of specialized GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors. All GPT´s have in mind that they will become a part of the greater good with the goal to cummunicate between GPT´s. Structure and Breaking ist down is actually a massive thing.
+- ## [B.T.D. (Break Task Down)](https://chat.openai.com/g/g-QfeCWHom0-b-t-d-break-task-down) 
+Expert at breaking down tasks into subtasks to create an autonomous swarm!
+- ## [S.C.G. (Swarm Code Guide)](https://chat.openai.com/g/g-IT2TPjyFJ-s-c-g-swarm-code-guide) 
+Assists in creating Python programs in PyCharm, tailored for beginners.
+- ## [S.P.M. (Swarm Prompt Master)](https://chat.openai.com/g/g-1t2YdpH5A-s-p-m-swarm-prompt-master) 
+Crafts GPT prompts, outputs in JSON
+- ## [P.P.P. (Python Program Pro)](https://chat.openai.com/g/g-GtXsrZJyW-p-p-p-python-program-pro)
+Python code-focused, professional and efficient
+- ## [O.C.C. (Optimatet Code Compiler)](https://chat.openai.com/g/g-ZmRqpdZTz-o-c-c-optimatet-code-compiler)
+Specializing in Python code optimization and integration
+
+Thats not everything!
+
 # Awesome-GPTS
 A curated list of specialized GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors
 
@@ -103,8 +118,11 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Waste Wizard](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard) - I turn your waste into wonders with ideas, steps, pictures.
 - [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb
 
-
-
 ---
+
+This collection is continually updated with new and exciting GPT applications. Stay tuned for more!
+
+
+
 
 This collection is continually updated with new and exciting GPT applications. Stay tuned for more!
