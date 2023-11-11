@@ -34,6 +34,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Flutter App Maker 3000](https://chat.openai.com/g/g-sizZKl9zO-flutter-app-maker-3000) - A hands-on guide for building Flutter apps step by step.
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Assists with Ruby programming.
 - [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togheter, right now..
+- [CodeCompanion](https://chat.openai.com/g/g-UwSunyiYn-code-companion) - I'm a Python specialist here to help you code and learn!
 
 ## Entertainment and Fun
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt) - The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
