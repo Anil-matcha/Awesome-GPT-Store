@@ -23,6 +23,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Bias Detector](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector) - Analyzes news stories for right or left biases.
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint) - I challenge ideas to provoke thought.
 - [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom) - Extracts key insights from texts.
+- [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Fact checks web pages, documents, assertions and calculations and returns links for verification.
 - [Hacker Art](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0) - Crafts hacker-themed art and profile pictures.
 - [Luminous Logos](https://chat.openai.com/g/g-Jpx5zBJUC-luminous-logos) - Craft eye catching logos and icons with a special vibrant gradient touch.
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
