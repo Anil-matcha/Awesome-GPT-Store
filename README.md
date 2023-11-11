@@ -38,6 +38,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Assists with Ruby programming.
 - [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
 - [Flowbite GPT)[https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt] - Create websites based on the Flowbite UI Library and Tailwind CSS.
+- [AWS Cloud Practitioner Trainer GPT](https://chat.openai.com/g/g-hwCXFnpHc-aws-cloud-practitioner-certification-trainer) - Use AI to train for your AWS certification exam.
 
 ## Entertainment and Fun
 - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with.
