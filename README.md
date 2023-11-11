@@ -45,7 +45,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper) - I keep score, for games.
 - [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) - Transcribes and summarizes audio content.
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
-- [ToonGPT](Turn drawings into illustrations!) - https://chat.openai.com/g/g-Jsefk8PeL-toongpt.
+- [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations!.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
 - [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.  
@@ -59,6 +59,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt) - I provide information from Wikipedia and links to further reading.
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) - a daily challenge
+- [Python Tutor](https://chat.openai.com/g/g-uY1Ec6U1T-python-tutor) - A Python tutor creating stepwise coding challenges.
+- [Physics Problem Creator](https://chat.openai.com/g/g-PRMFOZtRh-physics-problem-creator) - Craft tricky physics sets for learning, helping teachers create problem sets. 
 
 ## Fitness and Health
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
