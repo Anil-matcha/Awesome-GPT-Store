@@ -77,6 +77,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve) - CVE data lookup
 - [Waste Wizard](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard) - I turn your waste into wonders with ideas, steps, pictures.
 - [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb
+- [Touch Up Paint Helper](https://chat.openai.com/g/g-ulC8M1cJn-touch-up-paint-helper) - How to use automotive touch-up paint to fix scratches and chips on your car.
 
 
 
