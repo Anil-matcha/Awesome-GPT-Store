@@ -10,8 +10,16 @@ Crafts GPT prompts, outputs in JSON
 Python code-focused, professional and efficient
 - ## [O.C.C. (Optimatet Code Compiler)](https://chat.openai.com/g/g-ZmRqpdZTz-o-c-c-optimatet-code-compiler)
 Specializing in Python code optimization and integration
+- ## [F.C.S. (First Clarification Specialist)](https://chat.openai.com/g/g-VlLRpxepZ-f-c-s-first-clarification-specialist)
+Expert in advising for further GPT interactions
+- ## [E.D.L.V. (Excel Data Language Visualiser)](https://chat.openai.com/g/g-gERnlF65G-e-d-l-v-excel-data-language-visualiser)
+Direct, solution-focused Excel, data language, and VBA guide.
+- ## [C.T.D. (Custom Training Data)](https://chat.openai.com/g/g-gERnlF65G-e-d-l-v-excel-data-language-visualiser)
+Expert in training data creation
 
-Thats not everything!
+
+
+Thats not all we keep creating!
 
 # Awesome-GPTS
 A curated list of specialized GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors
