@@ -27,13 +27,15 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Cakes](https://chat.openai.com/g/g-iR4UIvIX2-cakes) - Send a gift to your cares
 - [❤️](https://chat.openai.com/g/g-pYZlrNIR8-) - with love
 - [ZILL·O](https://chat.openai.com/g/g-GvEjrjX6o-zill-o) - is here
+- [Image Generation with Self-Critique Improvement](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement) - AI-driven image creation with iterative self-improvement capabilities.
 
 ## Coding and Development
 - [CodeCopilot](https://chat.openai.com/g/g-2DQzU5UZl) - Pair programming assistant for various coding tasks.
 - [Developer Doc Search](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search) - Searches open source packages and their documentation.
 - [Flutter App Maker 3000](https://chat.openai.com/g/g-sizZKl9zO-flutter-app-maker-3000) - A hands-on guide for building Flutter apps step by step.
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Assists with Ruby programming.
-- [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togheter, right now..
+- [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code together, right now.
+- [Mindmap](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap) - Assists in creating structured mind maps for organizing thoughts and ideas.
 
 ## Entertainment and Fun
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt) - The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
@@ -42,10 +44,10 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper) - I keep score, for games.
 - [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) - Transcribes and summarizes audio content.
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
-- [ToonGPT](Turn drawings into illustrations!) - https://chat.openai.com/g/g-Jsefk8PeL-toongpt.
+- [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
-- [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.  
+- [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.
 
 ## Education and Learning
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
@@ -56,6 +58,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt) - I provide information from Wikipedia and links to further reading.
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) - a daily challenge
+- [Homework Help](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) - Provides assistance with homework and educational inquiries.
 
 ## Fitness and Health
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
@@ -63,8 +66,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness coach with workout visuals and resources.
 - [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in and off the field
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) - Organizes and tracks medication schedules.
-- [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) - I help gardners grow their plants and offer visual aids if needed.
-- [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjPEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor. 
+- [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) - I help gardeners grow their plants and offer visual aids if needed.
+- [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjPEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor.
 
 ## Miscellaneous
 - [AI Websites](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites) - Creates professional websites quickly.
@@ -76,9 +79,10 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans.
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve) - CVE data lookup
 - [Waste Wizard](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard) - I turn your waste into wonders with ideas, steps, pictures.
-- [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb
-
-
+- [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb.
+- [File Converter](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) - Assists in converting files between different formats.
+- [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
+- [Dog Facts](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts) - Provides interesting facts about dogs.
 
 ---
 
