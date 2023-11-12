@@ -45,7 +45,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code together, right now.
 - [Mindmap](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap) - Assists in creating structured mind maps for organizing thoughts and ideas.
 - [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
-- [Flowbite GPT][https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt] - Create websites based on the Flowbite UI Library and Tailwind CSS.
+- [Flowbite GPT](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt) - Create websites based on the Flowbite UI Library and Tailwind CSS.
 - [Game Craft Guru](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru) - Focused game mechanics and design expert.
 - [AWS Cloud Practitioner Trainer GPT](https://chat.openai.com/g/g-hwCXFnpHc-aws-cloud-practitioner-certification-trainer) - Use AI to train for your AWS certification exam.
 
