@@ -37,6 +37,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Aether](https://chat.openai.com/g/g-RO7ilCxmR-aether) - Cited answers to Python / JS / AI questions
 - [CodeCompanion](https://chat.openai.com/g/g-UwSunyiYn-code-companion) - I'm a Python specialist here to help you code and learn!
 - [CodeCopilot](https://chat.openai.com/g/g-2DQzU5UZl) - Pair programming assistant for various coding tasks.
+- [CodeGuardian](https://chat.openai.com/g/g-iNO6cUKoo-code-guardian) - Code challenges for web developers to identify security vulnerabilities and patch them.
 - [Developer Doc Search](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search) - Searches open source packages and their documentation.
 - [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togheter, right now..
 - [Flutter App Maker 3000](https://chat.openai.com/g/g-sizZKl9zO-flutter-app-maker-3000) - A hands-on guide for building Flutter apps step by step.
