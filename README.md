@@ -97,7 +97,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Six-Y](https://chat.openai.com/g/g-nMt5YfTeF-six-y) - Explains everything like you are 6 years old, and also paints an image of it.
 - [SexEd](https://chat.openai.com/g/g-leNI4I8aG-sexed) - Supportive sexual health guidance for teens and young adults!
 - [Spanish Friend](https://chat.openai.com/g/g-p5dJAcoT8-spanish-friend-language-conversation-improver) - Talk with me through some real-life scenarios and I will help you improve your foreign language skills through practice, translations and improvements.
-
+- [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences) - Discover the latest trends in  STEM disciplines
+- [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences) - Discover the latest trends in social sciences and other disciplines
 
 ## Fitness and Health
 - [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable) - ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
