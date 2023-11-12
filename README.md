@@ -130,6 +130,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [File Converter](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) - Assists in converting files between different formats.
 - [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
 - [Dog Facts](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts) - Provides interesting facts about dogs.
+- [GPT Selector](https://chat.openai.com/g/g-KxGmdTS9t-gpt-selector) - Helps you find the right GPT
 
 ---
 
