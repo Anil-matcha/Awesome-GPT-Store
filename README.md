@@ -17,6 +17,9 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [EditGPT](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt) - Friendly video editing and image creation assistant. 
 - [ExtractTableGPT](https://chat.openai.com/g/g-KbifnBjyz-extracttablegpt) - Extract table data from any docs into multiple formats.
 - [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
+- [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
+- [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts
+- [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
 
 ## Writing and Content Creation
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Writing assistant for academic and professional needs.
@@ -67,15 +70,14 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [GPTarantinofy](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy) - Turns anything into a Tarantino styled scene.
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
 - [Makeup Maven](https://chat.openai.com/g/g-XJ1gJkBcQ-makeup-maven) - An expert in makeup products, providing tailored recommendations based on preferences and skin types.
+- [Music Bot](https://chat.openai.com/g/g-2CmnN7kuF-music-bot) - Lyric writing, genre identification, and beat suggestions
 - [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters, from the user's photos.
+- [Romance](https://chat.openai.com/g/g-p4L4KuEdO-romance) - Your AI companion for romantic advice and conversations.
 - [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper) - I keep score, for games.
 - [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) - Transcribes and summarizes audio content.
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
-- [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
-- [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.
-
 
 ## Education and Learning
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
