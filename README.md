@@ -16,8 +16,30 @@ Expert in advising for further GPT interactions
 Direct, solution-focused Excel, data language, and VBA guide.
 - ## [C.T.D. (Custom Training Data)](https://chat.openai.com/g/g-gERnlF65G-e-d-l-v-excel-data-language-visualiser)
 Expert in training data creation
-
-
+- ## [G.G.S. [Grave GPT Storage]](https://chat.openai.com/g/g-n75HgJxtg-g-g-s-grave-gpt-storage))
+Custodian of past GPT interactions
+# I startet to copie old GPT conversations into .txt files to create some data.
+- This is the perfect way to create detailed training json files to test specific SWARM GPTS! 
+- You will get a special trained set of training data to test behaviors you are well known to!
+To create a comprehensive dataset for your Custom Training Data (C.T.D.) GPT, I will consolidate and structure key data points from the files into a format suitable for machine learning training.
+- The dataset will cover various topics and include detailed information based on the content of the provided files.
+Here's an overview of the data points extracted from each file:
+  ## EDLV.txt (Enhanced User-Friendly GUI for Music Duplicate Finder)
+- Objective: Create an intuitive GUI using Python's Tkinter for a music duplicate finder program.
+- Key Features: Large buttons, tooltips, progress bar, responsive design, result presentation, error handling, user confirmation, remembering preferences, Python 3.8 with Tkinter, data handling, backend integration, testing scenarios,    - deployment instructions, comprehensive documentation, UI/UX design.
+- Additional Guidelines: Focus on a clean, modern design, intuitive and easy navigation.
+ ## Hastag Producer.txt
+- Context: Impact of the internet and technology on various industries, such as the music industry, travel agents, video rental stores, encyclopedias, shopping malls, big box stores, postal service, journalism, and media industry.        - Generated Hashtags: Lists of hashtags related to digital revolution, internet impact, Napster effect, industry disruption, tech revolution, changing times, future trends, Spotify effect, AI innovation, tech disruption, existential      - crisis, changing world, sigmoid curve, adapting to change, tech revolution, future transformation, embracing AI, radical transformation, navigating uncertainty, fixing email, tech annoyances.
+## KI für musikalische Vielfalt.txt (AI for Musical Diversity)
+- Discussion Topics: AI's role in solving the problem of immortality, the concept of singularity, training your own AI, AI in medical research, AI applications in music recognition and improvement, Jukedeck Composer, Melodrive, Novation - 
+ Circuit Tracks.
+- AI Development: Steps to develop AI, components needed for AI training, building AI for specific tasks like analyzing monitoring forms in call centers, creating AI employees, using AI in music production.
+- Detailed Information: About Jukedeck Composer, Melodrive, cost of AI solutions, the functionality of Novation Circuit Tracks.
+To create the training data file, I will structure this information into a consistent format, possibly in JSON or CSV, depending on your preference and the requirements of the C.T.D. GPT. This file will include detailed descriptions, lists, steps, and concepts covered in the texts, providing a rich dataset for training purposes.
+Please let me know the preferred format (CSV, JSON, etc.) and any specific structuring requirements for the training data file.
+The training data for your Custom Training Data (C.T.D.) GPT has been structured into a JSON file. You can download the file using the link below:
+Download Training Data JSON
+This file includes diverse information extracted from the provided text files, which should be useful 
 
 Thats not all we keep creating!
 
