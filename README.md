@@ -111,6 +111,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in and off the field
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) - Organizes and tracks medication schedules.
 - [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) - I help gardeners grow their plants and offer visual aids if needed.
+- [MindMateGPT](https://chat.openai.com/g/g-YAmDYMJq3-mindmategpt) - Therapy AI prompt engineered over a year on the users of the website https://mindmategpt.com
 
 ## Miscellaneous
 - [AI Websites](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites) - Creates professional websites quickly.
