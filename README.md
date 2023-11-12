@@ -80,6 +80,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 ## Education and Learning
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
 - [ChessGPT](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt) - I am Magnus C·AI·rlsen, but I'll explain my moves.
+- [Chinese Pronunciation [Audio]](https://chat.openai.com/g/g-Dr5b43UUk-audio-chinese-pronunciation-tutor) - Chinese Pronunciation Tutor for use with ChatGPT mobile app's conversational AI
 - [Communication Coach](https://chat.openai.com/g/g-cvL6Fk76M-communication-coach) - I help overthinkers communicate better. Built by Become More Compelling.
 - [Conceptmap](https://chat.openai.com/g/g-ce1JVgzLI-conceptmap) - Create concepts and structure them in a map. Keep ideas and retrieve them whenever you need them.
 - [DeepGame](https://chat.openai.com/g/g-TzI2BlJPT-deepgame) - Visual Interactive Story Game. You decide what to do next.
