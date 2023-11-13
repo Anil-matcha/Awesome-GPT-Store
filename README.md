@@ -35,7 +35,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Cakes](https://chat.openai.com/g/g-iR4UIvIX2-cakes) - Send a gift to your cares
 - [Cold Mail](https://chat.openai.com/g/g-iVolzNwa5-cold-mail-by-domore-ai) - Engage prospective customers using personalized cold emails based on your offer's URL and the URL of the customer's website.
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint) - I challenge ideas to provoke thought.
-- [Esports Logo Creator]([https](https://chat.openai.com/g/g-2GXckoSaK-esports-logo-creator) - Create a professional esports logo for you or your team.
+- [Esports Logo Creator](https://chat.openai.com/g/g-2GXckoSaK-esports-logo-creator) - Create a professional esports logo for you or your team.
 - [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom) - Extracts key insights from texts.
 - [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Fact checks web pages, documents, assertions and calculations and returns links for verification.
 - [GPT Enhancer](https://chat.openai.com/g/g-fQ6GAANfi-gpt-enhancer) - AI assistant for refining GPT instructions with a focus on user experience and continuous AI learning.
