@@ -57,6 +57,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Flowbite GPT](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt) - Create websites based on the Flowbite UI Library and Tailwind CSS.
 - [Game Craft Guru](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru) - Focused game mechanics and design expert.
 - [AWS Cloud Practitioner Trainer GPT](https://chat.openai.com/g/g-hwCXFnpHc-aws-cloud-practitioner-certification-trainer) - Use AI to train for your AWS certification exam.
+- [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant) - I offer tested, secure coding solutions with no patience-testing.
+- [Learn AI in Fun Way](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way) - A humorous ML trainer who teaches with jokes and quizzes, making learning AI entertaining and enjoyable.
 
 ## Entertainment and Fun
 - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with.
