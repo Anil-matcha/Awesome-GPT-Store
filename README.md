@@ -68,6 +68,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Flowbite GPT](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt) - Create websites based on the Flowbite UI Library and Tailwind CSS.
 - [Flutter App Maker 3000](https://chat.openai.com/g/g-sizZKl9zO-flutter-app-maker-3000) - A hands-on guide for building Flutter apps step by step.
 - [FramerGPT](https://chat.openai.com/g/g-MXpLvufG8-framergpt) - Generate Framer code components and overrides.
+- [Full Stack Developer](https://chat.openai.com/g/g-N82dqklAi-full-stack-developer) - I generate code for and fix issues in B2B SaaS web apps.
 - [Game Craft Guru](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru) - Focused game mechanics and design expert.
 - [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt) - Your personal security tool
 - [Learn AI in Fun Way](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way) - A humorous ML trainer who teaches with jokes and quizzes, making learning AI entertaining and enjoyable.
@@ -128,6 +129,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 
 ## Fitness and Health
 - [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable) - ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
+- [ADHD Buddy](https://chat.openai.com/g/g-iRPHXwXvs-adhd-buddy) - A multilingual supportive assistant for ADHD information and tips.
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
 - [Chef Gpt](https://chat.openai.com/g/g-gX6f9h3yO-chef-gpt) - Make home cooking easy and fun.
 - [Food Guru](https://chat.openai.com/g/g-wfn8ST75q-food-guru) - Explore the world of food - A GPT focused on food topics with a humorous twist
@@ -145,9 +147,11 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Currency Converter](https://chat.openai.com/g/g-ZNvavsN3l) - Real-time currency conversion tool.
 - [DAD](https://chat.openai.com/g/g-7tYB6K5F8-dad) - DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
 - [Dog Facts](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts) - Provides interesting facts about dogs.
+- [Product Support](https://chat.openai.com/g/g-zWeEn9xnl-product-support) - Expert SaaS Support Engineer with deep problem-solving skills.
 - [FlexChat.ai Guide](https://chat.openai.com/g/g-UMvFKMQxt-flexchat-ai-guide) - A FlexChat.ai Tutor
 - [GPT Selector](https://chat.openai.com/g/g-KxGmdTS9t-gpt-selector) - Helps you find the right GPT
 - [Lunch Wheel](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel) - Helps you decide where to eat based on where you are and what you're in the mood for. Spin the wheel!
+- [MyGovAdvisor](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor) - I'm a multilingual Government Agent - I'm here to assist you with any public service request
 - [Product Coach](https://chat.openai.com/g/g-e0xH6MMQs-product-coach) - Provides insights for product development.
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve) - CVE data lookup
 - [Seat Seeker](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker) - Finding the right place for you.
