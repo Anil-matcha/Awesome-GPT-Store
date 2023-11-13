@@ -114,6 +114,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Homework Help](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) - Provides assistance with homework and educational inquiries.
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Helps in learning new languages.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - Assists parents and students with math problems.
+- [Personal career consultant](https://chat.openai.com/g/g-C5Arm3zGj-personal-career-consultant) - Update your CV, pass a test interview, build a personal career map.
 - [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences) - Discover the latest trends in  STEM disciplines
 - [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences) - Discover the latest trends in social sciences and other disciplines
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Research assistant for scientific papers.
@@ -124,7 +125,6 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Spanish Friend](https://chat.openai.com/g/g-p5dJAcoT8-spanish-friend-language-conversation-improver) - Talk with me through some real-life scenarios and I will help you improve your foreign language skills through practice, translations and improvements.
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
 - [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt) - I provide information from Wikipedia and links to further reading.
-- [Individual career consultant](https://chat.openai.com/g/g-C5Arm3zGj-individual-career-consultant) - Update your CV, pass a test interview, build a personal career map.
 
 ## Fitness and Health
 - [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable) - ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
