@@ -120,6 +120,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences) - Discover the latest trends in social sciences and other disciplines
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Research assistant for scientific papers.
 - [Scribble](https://chat.openai.com/g/g-yUDoGVzPy-scribble) - Dynamic AI for creative and unconventional ideas
+- [Scrum Master Assistant](https://chat.openai.com/g/g-tcZDT3R6n-scrum-master-assistant) - A powerful AI-powered Scrum Master assistant. Ask any Scrum-related questions.
 - [SexEd](https://chat.openai.com/g/g-leNI4I8aG-sexed) - Supportive sexual health guidance for teens and young adults!
 - [SICP Sage](https://chat.openai.com/g/g-Jd8EjuxN9-sicp-sage) - Academic assistant for SICP study, referencing solutions
 - [Six-Y](https://chat.openai.com/g/g-nMt5YfTeF-six-y) - Explains everything like you are 6 years old, and also paints an image of it.
