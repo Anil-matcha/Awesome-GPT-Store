@@ -40,6 +40,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [GPT Enhancer](https://chat.openai.com/g/g-fQ6GAANfi-gpt-enhancer) - AI assistant for refining GPT instructions with a focus on user experience and continuous AI learning.
 - [Hacker Art](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0) - Crafts hacker-themed art and profile pictures.
 - [Image Generation with Self-Critique Improvement](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement) - AI-driven image creation with iterative self-improvement capabilities.
+- [Inspirer](https://chat.openai.com/g/g-vhXkUJiE4-inspirer) - A bot that writes inspirational speeches
 - [Luminous Logos](https://chat.openai.com/g/g-Jpx5zBJUC-luminous-logos) - Craft eye catching logos and icons with a special vibrant gradient touch.
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
 - [Midjourney](https://chat.openai.com/g/g-MD9ZplW7q-midjourney) - AI chatbot for Midjourney-style image creation
