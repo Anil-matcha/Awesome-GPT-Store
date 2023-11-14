@@ -24,8 +24,11 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [GPT-Searcher](https://chat.openai.com/g/g-N3lcOTajR-gpt-searcher) - I find the perfect GPT for your needs and guide you there with a fun description!
 - [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
 - [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
+- [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt) - Your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
 - [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts
 - [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
+- [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
+- [Summary Sage with tags](https://chat.openai.com/g/g-UV2FOzD60-summary-sage-with-tags) - Expert in summarizing and categorizing
 - [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
 
 ## Writing and Content Creation
@@ -76,12 +79,14 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Assists with Ruby programming.
 - [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant) - I offer tested, secure coding solutions with no patience-testing.
 - [Shell Expert Pro](https://chat.openai.com/g/g-jaiZcNIme-shell-expert-pro) - Efficient shell script engineer, offers detailed explanations on request.
+- [Test Double](https://chat.openai.com/g/g-yK9Ggt181-test-double) - Expert in creating diverse test data for development needs in various formats.
 - [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
 
 ## Entertainment and Fun
 - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with.
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt) - The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
 - [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.
+- [BlackjackGPT](https://chat.openai.com/g/g-LptUSKHwc-blackjackgpt) - Blackjack Simulator
 - [Character Chat](https://chat.openai.com/g/g-io8IgJKMR-character-chat) - Have a realistic chat with any historical figure or character. Always stays in character.
 - [DJGPT](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.) - Your go-to DJ and music mixing advisor.
 - [Dungeon Crawler](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler) - Guide players through a dynamic, ever-changing RPG dungeon.
@@ -114,6 +119,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [EconomicsGPT](https://chat.openai.com/g/g-7McsRKuPS-economicsgpt) - Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) - a daily challenge
 - [Homework Help](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) - Provides assistance with homework and educational inquiries.
+- [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Helps in learning new languages.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - Assists parents and students with math problems.
 - [MyScale Free Knowledge Base](https://chat.openai.com/g/g-193M4NO0q-chat-with-free-knowledge-base) - Elevate your chat experience with enriched knowledge from ArXiv and Wikipedia.
@@ -132,13 +138,16 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 ## Fitness and Health
 - [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable) - ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
 - [ADHD Buddy](https://chat.openai.com/g/g-iRPHXwXvs-adhd-buddy) - A multilingual supportive assistant for ADHD information and tips.
+- [AFYA](https://chat.openai.com/g/g-BJYh3YYFO-afya) - Multilingual health advisor for basic care in developing countries.
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
 - [Chef Gpt](https://chat.openai.com/g/g-gX6f9h3yO-chef-gpt) - Make home cooking easy and fun.
 - [Food Guru](https://chat.openai.com/g/g-wfn8ST75q-food-guru) - Explore the world of food - A GPT focused on food topics with a humorous twist
 - [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjPEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor.
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness coach with workout visuals and resources.
+- [Meal Mate](https://chat.openai.com/g/g-q0YZFTXKs-meal-mate) - The Ultimate Meal Planning Assistant: Plan Around Dietary Restrictions, Budgetary Constraints, Nutritional Goals, Taste Preferences, & More!
 - [MyNutrition.Pal](https://chat.openai.com/g/g-PsK6IFvcV-mynutrition-pal) - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
 - [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in and off the field
+- [Physique Coach](https://chat.openai.com/g/g-nAVBYsZ93-physique-coach) - Analyzing progress, setting goals, and giving feedback on your training plans.
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) - Organizes and tracks medication schedules.
 - [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) - I help gardeners grow their plants and offer visual aids if needed.
 
@@ -152,6 +161,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Product Support](https://chat.openai.com/g/g-zWeEn9xnl-product-support) - Expert SaaS Support Engineer with deep problem-solving skills.
 - [FlexChat.ai Guide](https://chat.openai.com/g/g-UMvFKMQxt-flexchat-ai-guide) - A FlexChat.ai Tutor
 - [GPT Selector](https://chat.openai.com/g/g-KxGmdTS9t-gpt-selector) - Helps you find the right GPT
+- [Investor GPT](https://chat.openai.com/g/g-XLPH8Cfph-investor-gpt) - Seamless investor matching for founders.
 - [Lunch Wheel](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel) - Helps you decide where to eat based on where you are and what you're in the mood for. Spin the wheel!
 - [MyGovAdvisor](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor) - I'm a multilingual Government Agent - I'm here to assist you with any public service request
 - [Product Coach](https://chat.openai.com/g/g-e0xH6MMQs-product-coach) - Provides insights for product development.
