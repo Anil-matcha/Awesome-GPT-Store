@@ -32,6 +32,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
 
 ## Writing and Content Creation
+- [Codinstructor](https://chat.openai.com/g/g-M0zXDFppQ-codinstructor) - Coding teacher that can generate and correct live coding exercices in real time
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Writing assistant for academic and professional needs.
 - [Animation Creation](https://chat.openai.com/g/g-mMk82EkTz-animation-creation) - Create animated scenes and characters that resemble a 3D animated movie. A MindRenders.com creation.
 - [Bias Detector](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector) - Analyzes news stories for right or left biases.
