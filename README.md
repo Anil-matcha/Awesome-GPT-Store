@@ -116,6 +116,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Homework Help](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) - Provides assistance with homework and educational inquiries.
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Helps in learning new languages.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - Assists parents and students with math problems.
+- [MyScale Free Knowledge Base](https://chat.openai.com/g/g-193M4NO0q-chat-with-free-knowledge-base) - Elevate your chat experience with enriched knowledge from ArXiv and Wikipedia.
 - [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences) - Discover the latest trends in  STEM disciplines
 - [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences) - Discover the latest trends in social sciences and other disciplines
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Research assistant for scientific papers.
