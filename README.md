@@ -107,6 +107,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
+- [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt) - Create your own gemstone bracelets with live 3D
 
 ## Education and Learning
 - [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
