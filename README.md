@@ -25,6 +25,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
 - [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt) - Your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
+- [Product Engineer](https://chat.openai.com/g/g-4hXZITeda-product-engineer) - Find inventive solutions to engineering problems.
 - [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts
 - [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
 - [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
