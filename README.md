@@ -95,6 +95,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Demon Slayer Creator](https://chat.openai.com/g/g-Wih24h3gv-demon-slayer-creator) - I craft unique Demon Slayer characters with inventive weapons, styles, and narratives.
 - [Ekko Support Specialist](https://chat.openai.com/g/g-cxFRZ3mWq-ekko-support-specialist) - How to be a master of surprise plays and unconventional strategies in the bot lane as a support role.
 - [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator) - I turn your text into Emoji
+- [Excalibur](https://chat.openai.com/g/g-lV3kVHYcz-excalibur) - Attempt to pull the legendary sword from the stone.
 - [From Another Time](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time) - Talk to anyone, visit a place, past or future.
 - [GPTarantinofy](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy) - Turns anything into a Tarantino styled scene.
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
