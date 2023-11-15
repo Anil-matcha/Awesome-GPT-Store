@@ -123,6 +123,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [DeepGame](https://chat.openai.com/g/g-TzI2BlJPT-deepgame) - Visual Interactive Story Game. You decide what to do next.
 - [EconomicsGPT](https://chat.openai.com/g/g-7McsRKuPS-economicsgpt) - Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) - a daily challenge
+- [Histocomedy](https://chat.openai.com/g/g-lj8v9rBEd-histocomedy) - teaches history in a humorous format
 - [Homework Help](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) - Provides assistance with homework and educational inquiries.
 - [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Helps in learning new languages.
