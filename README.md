@@ -68,6 +68,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [CodeCopilot](https://chat.openai.com/g/g-2DQzU5UZl) - Pair programming assistant for various coding tasks.
 - [CodeGuardian](https://chat.openai.com/g/g-iNO6cUKoo-code-guardian) - Code challenges for web developers to identify security vulnerabilities and patch them.
 - [Codey](https://chat.openai.com/g/g-SuWVXlmkP-codey) - 💪 Your coding expert! I assist with code, debug, graphs, and file handling. Ask 'Help' for a menu!
+- [Create Coding Tutorials](https://chat.openai.com/g/g-yCng8eadJ-create-coding-tutorials) - Takes your code and develops a self-paced tutorial for your students.
 - [Developer Doc Search](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search) - Searches open source packages and their documentation.
 - [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togheter, right now..
 - [Flowbite GPT](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt) - Create websites based on the Flowbite UI Library and Tailwind CSS.
