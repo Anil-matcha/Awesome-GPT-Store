@@ -145,8 +145,11 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [ADHD Buddy](https://chat.openai.com/g/g-iRPHXwXvs-adhd-buddy) - A multilingual supportive assistant for ADHD information and tips.
 - [AFYA](https://chat.openai.com/g/g-BJYh3YYFO-afya) - Multilingual health advisor for basic care in developing countries.
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
+- [Awesome Insights](https://chat.openai.com/g/g-fXwXTCnMO-awesome-insights) - A meditation coach for the AI age
 - [Chef Gpt](https://chat.openai.com/g/g-gX6f9h3yO-chef-gpt) - Make home cooking easy and fun.
+- [Crown Counselor](https://chat.openai.com/g/g-SqIkhgc26-crown-counselor-beta) - Dental implant patient education guru
 - [Food Guru](https://chat.openai.com/g/g-wfn8ST75q-food-guru) - Explore the world of food - A GPT focused on food topics with a humorous twist
+- [Immunization Insights](https://chat.openai.com/g/g-6o3Woxcw3-immunization-insights-beta) - Immunization support and advocacy guide
 - [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjPEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor.
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness coach with workout visuals and resources.
 - [Meal Mate](https://chat.openai.com/g/g-q0YZFTXKs-meal-mate) - The Ultimate Meal Planning Assistant: Plan Around Dietary Restrictions, Budgetary Constraints, Nutritional Goals, Taste Preferences, & More!
