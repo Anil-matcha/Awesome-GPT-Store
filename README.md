@@ -1,5 +1,5 @@
 # Awesome GPT Store
-A curated list of specialized GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors
+A curated list of specialized GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors. To access the GPT Store Finder, visit the custom GPT containg all the updated data here https://chat.openai.com/g/g-JRQEmbuM9-gpt-store-finder
 
 ## Table of Contents
 - [Technical Assistance](#technical-assistance)
