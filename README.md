@@ -60,6 +60,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [UX Advisor](https://chat.openai.com/g/g-5SDP6CS1W-ux-advisor) - Get UX feedback by uploading an image or by defining your problem.
 - [Wild Geometrica](https://chat.openai.com/g/g-LnpmXIlFt-wild-geometrica) - Structured shapes dance with untamed creatures, painting a canvas of awe and wonder. A MindRenders.com GPT.
 - [ZILL·O](https://chat.openai.com/g/g-GvEjrjX6o-zill-o) - is here
+- [Cover Letter GPT](https://chat.openai.com/g/g-MYSzNumup-cover-letter-gpt) - Expert in creating tailored cover letters based on job descriptions
 
 ## Coding and Development
 - [Aether](https://chat.openai.com/g/g-RO7ilCxmR-aether) - Cited answers to Python / JS / AI questions
