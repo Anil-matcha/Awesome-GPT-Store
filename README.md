@@ -26,6 +26,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt) - Your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
 - [Product Engineer](https://chat.openai.com/g/g-4hXZITeda-product-engineer) - Find inventive solutions to engineering problems.
+- [Prompt Crafter](https://chat.openai.com/g/g-0olkkYtUo-prompt-crafter) - Assists you in creating well-defined prompts effortlessly.
 - [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts
 - [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
 - [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
@@ -49,6 +50,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Inspirer](https://chat.openai.com/g/g-vhXkUJiE4-inspirer) - A bot that writes inspirational speeches
 - [Luminous Logos](https://chat.openai.com/g/g-Jpx5zBJUC-luminous-logos) - Craft eye catching logos and icons with a special vibrant gradient touch.
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
+- [Midjourney Prompt Generator](https://chat.openai.com/g/g-9PDMI3Fqr-midjourney-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
+- [Dalle3 Prompt Generator](https://chat.openai.com/g/g-SRCi7viea-dalle3-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
 - [Midjourney](https://chat.openai.com/g/g-MD9ZplW7q-midjourney) - AI chatbot for Midjourney-style image creation
 - [PresentationGPT](https://chat.openai.com/g/g-6fEHnJPXY-presentationgpt) - AI bot specializing in creating presentation outlines
 - [ProductGPT](https://chat.openai.com/g/g-GUjYfiBrG-productgpt) - Your Ultimate Product Naming and Description Assistant
