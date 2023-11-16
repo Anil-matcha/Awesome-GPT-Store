@@ -1,5 +1,13 @@
 # Awesome GPT Store
-A curated list of specialized GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors. To access the GPT Store Finder, visit the custom GPT containing all the updated data here https://chat.openai.com/g/g-JRQEmbuM9-gpt-store-finder
+A curated list of specialized GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors. 
+
+### Don't forget to:
+
+👉 Show your support by giving this repository a star! ⭐
+
+👉 Check out the Custom GPT Store Finder to chat with ChatGPT and get GPT recommendations from the data in this repo https://chat.openai.com/g/g-JRQEmbuM9-gpt-store-finder
+
+👉 Follow me on Twitter for updates! https://twitter.com/matchaman11
 
 ## Table of Contents
 - [Technical Assistance](#technical-assistance)
