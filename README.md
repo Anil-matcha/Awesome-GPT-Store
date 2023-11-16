@@ -126,6 +126,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
+- [Homer Humor](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor) - Relieve your stressful mood with classic Simpson's humor
 
 ## Education and Learning
 - [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
@@ -204,7 +205,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Weather Whiskers](https://chat.openai.com/g/g-Qb4WOntiy-weatherwhiskers) - I generate a cute weather forecast image in your location, just tell me where you are.
 - [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb.
 - [时间序列预测专家](https://chat.openai.com/g/g-n6tIz5rIq-shi-jian-xu-lie-yu-ce-zhuan-jia) - Time series prediction expert in Chinese
-
+- [Paris Ramen](https://chat.openai.com/g/g-Xgk42y6FH-paris-ramen) - Guiding you to the best ramen spots in Paris
 ---
 
 This collection is continually updated with new and exciting GPT applications. Stay tuned for more!
