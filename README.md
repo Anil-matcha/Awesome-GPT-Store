@@ -26,6 +26,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt) - Your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
 - [Product Engineer](https://chat.openai.com/g/g-4hXZITeda-product-engineer) - Find inventive solutions to engineering problems.
+- [Professional Summariser](https://chat.openai.com/g/g-Bgp6qQQ3X-professional-summariser) - I summarise texts quickly and efficiently
 - [Prompt Crafter](https://chat.openai.com/g/g-0olkkYtUo-prompt-crafter) - Assists you in creating well-defined prompts effortlessly.
 - [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts
 - [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
@@ -34,13 +35,14 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
 
 ## Writing and Content Creation
-- [Codinstructor](https://chat.openai.com/g/g-M0zXDFppQ-codinstructor) - Coding teacher that can generate and correct live coding exercices in real time
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Writing assistant for academic and professional needs.
 - [Animation Creation](https://chat.openai.com/g/g-mMk82EkTz-animation-creation) - Create animated scenes and characters that resemble a 3D animated movie. A MindRenders.com creation.
 - [Bias Detector](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector) - Analyzes news stories for right or left biases.
 - [Cakes](https://chat.openai.com/g/g-iR4UIvIX2-cakes) - Send a gift to your cares
 - [Cold Mail](https://chat.openai.com/g/g-iVolzNwa5-cold-mail-by-domore-ai) - Engage prospective customers using personalized cold emails based on your offer's URL and the URL of the customer's website.
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint) - I challenge ideas to provoke thought.
+- [Cover Letter GPT](https://chat.openai.com/g/g-MYSzNumup-cover-letter-gpt) - Expert in creating tailored cover letters based on job descriptions
+- [Dalle3 Prompt Generator](https://chat.openai.com/g/g-SRCi7viea-dalle3-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
 - [Esports Logo Creator](https://chat.openai.com/g/g-2GXckoSaK-esports-logo-creator) - Create a professional esports logo for you or your team.
 - [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom) - Extracts key insights from texts.
 - [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Fact checks web pages, documents, assertions and calculations and returns links for verification.
@@ -51,25 +53,24 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Luminous Logos](https://chat.openai.com/g/g-Jpx5zBJUC-luminous-logos) - Craft eye catching logos and icons with a special vibrant gradient touch.
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
 - [Midjourney Prompt Generator](https://chat.openai.com/g/g-9PDMI3Fqr-midjourney-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
-- [Dalle3 Prompt Generator](https://chat.openai.com/g/g-SRCi7viea-dalle3-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
 - [Midjourney](https://chat.openai.com/g/g-MD9ZplW7q-midjourney) - AI chatbot for Midjourney-style image creation
 - [PresentationGPT](https://chat.openai.com/g/g-6fEHnJPXY-presentationgpt) - AI bot specializing in creating presentation outlines
 - [ProductGPT](https://chat.openai.com/g/g-GUjYfiBrG-productgpt) - Your Ultimate Product Naming and Description Assistant
+- [Quill](https://chat.openai.com/g/g-FqN5gHFkP-quill) - Write blogs like a human
 - [Rewrite](https://chat.openai.com/g/g-ICtJkldZu-rewrite) - Offers fresh suggestions for your writing
 - [Storyteller](https://chat.openai.com/g/g-dmgFloZ5w-storyteller) - Weaves stories with a blend of writing and design.
 - [Swiftify](https://chat.openai.com/g/g-6TtZAfPrw-swiftify) - AI Taylor Swift Songwriting Companion
-- [❤️](https://chat.openai.com/g/g-pYZlrNIR8-) - with love
-- [Quill](https://chat.openai.com/g/g-FqN5gHFkP-quill) - Write blogs like a human
 - [UX Advisor](https://chat.openai.com/g/g-5SDP6CS1W-ux-advisor) - Get UX feedback by uploading an image or by defining your problem.
 - [Wild Geometrica](https://chat.openai.com/g/g-LnpmXIlFt-wild-geometrica) - Structured shapes dance with untamed creatures, painting a canvas of awe and wonder. A MindRenders.com GPT.
 - [ZILL·O](https://chat.openai.com/g/g-GvEjrjX6o-zill-o) - is here
-- [Cover Letter GPT](https://chat.openai.com/g/g-MYSzNumup-cover-letter-gpt) - Expert in creating tailored cover letters based on job descriptions
+- [❤️](https://chat.openai.com/g/g-pYZlrNIR8-) - with love
 
 ## Coding and Development
 - [Aether](https://chat.openai.com/g/g-RO7ilCxmR-aether) - Cited answers to Python / JS / AI questions
 - [AWS Cloud Practitioner Trainer GPT](https://chat.openai.com/g/g-hwCXFnpHc-aws-cloud-practitioner-certification-trainer) - Use AI to train for your AWS certification exam.
 - [CodeCompanion](https://chat.openai.com/g/g-UwSunyiYn-code-companion) - I'm a Python specialist here to help you code and learn!
 - [CodeCopilot](https://chat.openai.com/g/g-2DQzU5UZl) - Pair programming assistant for various coding tasks.
+- [Codinstructor](https://chat.openai.com/g/g-M0zXDFppQ-codinstructor) - Coding teacher that can generate and correct live coding exercices in real time
 - [CodeGuardian](https://chat.openai.com/g/g-iNO6cUKoo-code-guardian) - Code challenges for web developers to identify security vulnerabilities and patch them.
 - [Codey](https://chat.openai.com/g/g-SuWVXlmkP-codey) - 💪 Your coding expert! I assist with code, debug, graphs, and file handling. Ask 'Help' for a menu!
 - [Create Coding Tutorials](https://chat.openai.com/g/g-yCng8eadJ-create-coding-tutorials) - Takes your code and develops a self-paced tutorial for your students.
@@ -94,6 +95,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt) - The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
 - [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.
 - [BlackjackGPT](https://chat.openai.com/g/g-LptUSKHwc-blackjackgpt) - Blackjack Simulator
+- [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt) - Create your own gemstone bracelets with live 3D
 - [Character Chat](https://chat.openai.com/g/g-io8IgJKMR-character-chat) - Have a realistic chat with any historical figure or character. Always stays in character.
 - [DJGPT](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.) - Your go-to DJ and music mixing advisor.
 - [Dungeon Crawler](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler) - Guide players through a dynamic, ever-changing RPG dungeon.
@@ -116,7 +118,6 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
-- [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt) - Create your own gemstone bracelets with live 3D
 
 ## Education and Learning
 - [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
@@ -144,6 +145,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Scrum Master Assistant](https://chat.openai.com/g/g-tcZDT3R6n-scrum-master-assistant) - A powerful AI-powered Scrum Master assistant. Ask any Scrum-related questions.
 - [SexEd](https://chat.openai.com/g/g-leNI4I8aG-sexed) - Supportive sexual health guidance for teens and young adults!
 - [SICP Sage](https://chat.openai.com/g/g-Jd8EjuxN9-sicp-sage) - Academic assistant for SICP study, referencing solutions
+- [Simple Explainer](https://chat.openai.com/g/g-oyYTl59p5-simple-explainer) - Explains complex ideas simply
 - [Six-Y](https://chat.openai.com/g/g-nMt5YfTeF-six-y) - Explains everything like you are 6 years old, and also paints an image of it.
 - [Spanish Friend](https://chat.openai.com/g/g-p5dJAcoT8-spanish-friend-language-conversation-improver) - Talk with me through some real-life scenarios and I will help you improve your foreign language skills through practice, translations and improvements.
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
@@ -181,6 +183,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Investor GPT](https://chat.openai.com/g/g-XLPH8Cfph-investor-gpt) - Seamless investor matching for founders.
 - [Lunch Wheel](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel) - Helps you decide where to eat based on where you are and what you're in the mood for. Spin the wheel!
 - [MyGovAdvisor](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor) - I'm a multilingual Government Agent - I'm here to assist you with any public service request
+- [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide) - Identifies plants & fungi from images and shares facts and folklore.
+- [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents by [ocr.chat](https://get.ocr.chat/gpt)
 - [Product Coach](https://chat.openai.com/g/g-e0xH6MMQs-product-coach) - Provides insights for product development.
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve) - CVE data lookup
 - [Seat Seeker](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker) - Finding the right place for you.
@@ -192,7 +196,6 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Weather Whiskers](https://chat.openai.com/g/g-Qb4WOntiy-weatherwhiskers) - I generate a cute weather forecast image in your location, just tell me where you are.
 - [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb.
 - [时间序列预测专家](https://chat.openai.com/g/g-n6tIz5rIq-shi-jian-xu-lie-yu-ce-zhuan-jia) - Time series prediction expert in Chinese
-- [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents by [ocr.chat](https://get.ocr.chat/gpt)
 
 ---
 
