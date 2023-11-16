@@ -125,6 +125,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Chinese Pronunciation [Audio]](https://chat.openai.com/g/g-Dr5b43UUk-audio-chinese-pronunciation-tutor) - Chinese Pronunciation Tutor for use with ChatGPT mobile app's conversational AI
 - [Communication Coach](https://chat.openai.com/g/g-cvL6Fk76M-communication-coach) - I help overthinkers communicate better. Built by Become More Compelling.
 - [Conceptmap](https://chat.openai.com/g/g-ce1JVgzLI-conceptmap) - Create concepts and structure them in a map. Keep ideas and retrieve them whenever you need them.
+- [Daily AI Research Digest](https://chat.openai.com/g/g-Z4yeZHkyy-daily-ai-research-digest) - Finds and summarizes the latest AI papers in your field.
+- [Daily Research Digest](https://chat.openai.com/g/g-Nmhk1adrD-daily-research-digest) - Finds and summarizes the latest academic papers in your field.
 - [DeepGame](https://chat.openai.com/g/g-TzI2BlJPT-deepgame) - Visual Interactive Story Game. You decide what to do next.
 - [EconomicsGPT](https://chat.openai.com/g/g-7McsRKuPS-economicsgpt) - Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) - a daily challenge
@@ -136,6 +138,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [MyScale Free Knowledge Base](https://chat.openai.com/g/g-193M4NO0q-chat-with-free-knowledge-base) - Elevate your chat experience with enriched knowledge from ArXiv and Wikipedia.
 - [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences) - Discover the latest trends in  STEM disciplines
 - [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences) - Discover the latest trends in social sciences and other disciplines
+- [Scientific Research Digest](https://chat.openai.com/g/g-XrX7bd1HU-scientific-research-digest) - Finds and summarizes recent papers in biology, chemistry, and biomedical sciences.
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Research assistant for scientific papers.
 - [Scribble](https://chat.openai.com/g/g-yUDoGVzPy-scribble) - Dynamic AI for creative and unconventional ideas
 - [Scrum Master Assistant](https://chat.openai.com/g/g-tcZDT3R6n-scrum-master-assistant) - A powerful AI-powered Scrum Master assistant. Ask any Scrum-related questions.
