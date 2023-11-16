@@ -123,6 +123,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) - Transcribes and summarizes audio content.
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
 - [Text My Pet](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet) - Text your favorite pet after answering 10 short question about their activities.
+- [TinderBot](https://chat.openai.com/g/g-BlfF7RFjD-tinderbot) - Share with me some details or insights about your match, and I'll create personalised, witty Tinder ice breakers with a touch of cheekiness and emojis.
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
@@ -145,6 +146,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Helps in learning new languages.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - Assists parents and students with math problems.
+- [MediTrainNHS](https://chat.openai.com/g/g-RCz7BkyQJ-meditrainnhs) - An unofficial assistant for current and prospective NHS doctors in training, with extensive NHS-related knowledge.
+- [MSRA Coach](https://chat.openai.com/g/g-MVzmdzbO3-msra-coach) - Unofficial Multi-Specialty Recruitment Assessment (MSRA) Coach and Exam Preparation Mentor
 - [MyScale Free Knowledge Base](https://chat.openai.com/g/g-193M4NO0q-chat-with-free-knowledge-base) - Elevate your chat experience with enriched knowledge from ArXiv and Wikipedia.
 - [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences) - Discover the latest trends in  STEM disciplines
 - [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences) - Discover the latest trends in social sciences and other disciplines
