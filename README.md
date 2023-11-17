@@ -173,6 +173,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Syllabus Builder](https://chat.openai.com/g/g-ZS0jp3SJW-syllabus-builder) - Your personal instructional designer.
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
 - [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt) - I provide information from Wikipedia and links to further reading.
+- [Bhagavad Gita Guide](https://chat.openai.com/g/g-MzIE52wA6-bhagavad-gita-guide) - Guidance from Bhagavad Gita for life's challenges, in user's language.
 
 ## Fitness and Health
 - [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable) - ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
