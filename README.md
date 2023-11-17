@@ -219,6 +219,9 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb.
 - [时间序列预测专家](https://chat.openai.com/g/g-n6tIz5rIq-shi-jian-xu-lie-yu-ce-zhuan-jia) - Time series prediction expert in Chinese
 - [Paris Ramen](https://chat.openai.com/g/g-Xgk42y6FH-paris-ramen) - Guiding you to the best ramen spots in Paris
+
+## Specialized Engineering Disciplines
+- [Ezra](https://chat.openai.com/g/g-VcnrTHoIS-ezra) - Quirky and brilliant Systems Engineering professor, weaving truth and expertise with a touch of whimsy.
 ---
 
 This collection is continually updated with new and exciting GPT applications. Stay tuned for more!
