@@ -31,6 +31,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Gantt Chart GPT](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt) - This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)
 - [GPT-Searcher](https://chat.openai.com/g/g-N3lcOTajR-gpt-searcher) - I find the perfect GPT for your needs and guide you there with a fun description!
 - [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
+- [GetSite9000](https://chat.openai.com/g/g-SgR7h0b2T-getsite9000) - Create a personal or business website and host it.
 - [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt) - Your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
 - [Product Engineer](https://chat.openai.com/g/g-4hXZITeda-product-engineer) - Find inventive solutions to engineering problems.
@@ -123,12 +124,14 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) - Transcribes and summarizes audio content.
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
 - [Text My Pet](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet) - Text your favorite pet after answering 10 short question about their activities.
+- [TinderBot](https://chat.openai.com/g/g-BlfF7RFjD-tinderbot) - Share with me some details or insights about your match, and I'll create personalised, witty Tinder ice breakers with a touch of cheekiness and emojis.
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
 - [Homer Humor](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor) - Relieve your stressful mood with classic Simpson's humor
 
 ## Education and Learning
+- [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
 - [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
 - [ChessGPT](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt) - I am Magnus C·AI·rlsen, but I'll explain my moves.
@@ -149,6 +152,8 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Lego Brick Innovator](https://chat.openai.com/g/g-sfsgCWXnE-lego-brick-innovator) - Mentor for creating innovative LEGO projects.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - Assists parents and students with math problems.
 - [Motivated for Mandarin](https://chat.openai.com/g/g-hnYAvJChZ-motivated-for-mandarin) - A helpful guide for learning Mandarin, offering lessons, translation, interpretation and motivation.
+- [MediTrainNHS](https://chat.openai.com/g/g-RCz7BkyQJ-meditrainnhs) - An unofficial assistant for current and prospective NHS doctors in training, with extensive NHS-related knowledge.
+- [MSRA Coach](https://chat.openai.com/g/g-MVzmdzbO3-msra-coach) - Unofficial Multi-Specialty Recruitment Assessment (MSRA) Coach and Exam Preparation Mentor.
 - [MyScale Free Knowledge Base](https://chat.openai.com/g/g-193M4NO0q-chat-with-free-knowledge-base) - Elevate your chat experience with enriched knowledge from ArXiv and Wikipedia.
 - [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences) - Discover the latest trends in  STEM disciplines
 - [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences) - Discover the latest trends in social sciences and other disciplines
@@ -161,6 +166,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Simple Explainer](https://chat.openai.com/g/g-oyYTl59p5-simple-explainer) - Explains complex ideas simply
 - [Six-Y](https://chat.openai.com/g/g-nMt5YfTeF-six-y) - Explains everything like you are 6 years old, and also paints an image of it.
 - [Spanish Friend](https://chat.openai.com/g/g-p5dJAcoT8-spanish-friend-language-conversation-improver) - Talk with me through some real-life scenarios and I will help you improve your foreign language skills through practice, translations and improvements.
+- [Syllabus Builder](https://chat.openai.com/g/g-ZS0jp3SJW-syllabus-builder) - Your personal instructional designer.
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
 - [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt) - I provide information from Wikipedia and links to further reading.
 
