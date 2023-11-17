@@ -5,9 +5,11 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 
 👉 Show your support by giving this repository a star! ⭐
 
-👉 Check out the Custom GPT Store Finder to chat with ChatGPT and get GPT recommendations from the data in this repo https://chat.openai.com/g/g-JRQEmbuM9-gpt-store-finder
+👉 Check out the Custom GPT Store Finder to chat with ChatGPT and get GPT recommendations from the data in this repo https://chat.openai.com/g/g-JRQEmbuM9-gpt-store-finder or from the website https://www.thesamur.ai/custom-gpt-store
 
 👉 Follow me on Twitter for updates! https://twitter.com/matchaman11
+
+<img width="976" alt="Screenshot 2023-11-17 at 3 02 30 PM" src="https://github.com/Anil-matcha/Awesome-GPT-Store/assets/4326215/9c28c7fa-c722-4819-bb68-4c318dd336ae">
 
 ## Table of Contents
 - [Technical Assistance](#technical-assistance)
