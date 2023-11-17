@@ -31,6 +31,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Gantt Chart GPT](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt) - This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)
 - [GPT-Searcher](https://chat.openai.com/g/g-N3lcOTajR-gpt-searcher) - I find the perfect GPT for your needs and guide you there with a fun description!
 - [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
+- [GetSite9000](https://chat.openai.com/g/g-SgR7h0b2T-getsite9000) - Create a personal or business website and host it.
 - [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt) - Your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
 - [Product Engineer](https://chat.openai.com/g/g-4hXZITeda-product-engineer) - Find inventive solutions to engineering problems.
