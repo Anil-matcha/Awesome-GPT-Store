@@ -132,6 +132,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
 - [Homer Humor](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor) - Relieve your stressful mood with classic Simpson's humor
+- [Guess a Word](https://chat.openai.com/g/g-QiPBZt4Zo-guess-a-word) - Discover words through images in 'Guess a Word', where each picture is a puzzle waiting to be solved!
 
 ## Education and Learning
 - [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
