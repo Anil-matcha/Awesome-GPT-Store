@@ -17,6 +17,8 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Coding and Development](#coding-and-development)
 - [Entertainment and Fun](#entertainment-and-fun)
 - [Education and Learning](#education-and-learning)
+- [Career and Guidance](#career-and-guidance)
+- [Fitness and Health](#fitness-and-health)
 - [Fitness and Health](#fitness-and-health)
 - [Miscellaneous](#miscellaneous)
 
@@ -66,6 +68,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
 - [Midjourney Prompt Generator](https://chat.openai.com/g/g-9PDMI3Fqr-midjourney-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
 - [Midjourney](https://chat.openai.com/g/g-MD9ZplW7q-midjourney) - AI chatbot for Midjourney-style image creation
+- [NSF Proposal Partner](https://chat.openai.com/g/g-00Nu0FoNA-nsf-proposal-partner) - Your assistant for writing NSF grant proposals, trained on past successful proposals.
 - [PresentationGPT](https://chat.openai.com/g/g-6fEHnJPXY-presentationgpt) - AI bot specializing in creating presentation outlines
 - [ProductGPT](https://chat.openai.com/g/g-GUjYfiBrG-productgpt) - Your Ultimate Product Naming and Description Assistant
 - [Quill](https://chat.openai.com/g/g-FqN5gHFkP-quill) - Write blogs like a human
@@ -99,9 +102,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Assists with Ruby programming.
 - [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant) - I offer tested, secure coding solutions with no patience-testing.
 - [Shell Expert Pro](https://chat.openai.com/g/g-jaiZcNIme-shell-expert-pro) - Efficient shell script engineer, offers detailed explanations on request.
+- [Software Architecture Visualiser](https://chat.openai.com/g/g-FJhVmVrg8-software-architecture-visualiser) - Helps to visualize your software architecture using PlantUML diagrams.
 - [Test Double](https://chat.openai.com/g/g-yK9Ggt181-test-double) - Expert in creating diverse test data for development needs in various formats.
 - [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
-- [Software Architecture Visualiser](https://chat.openai.com/g/g-FJhVmVrg8-software-architecture-visualiser) - Helps to visualize your software architecture using PlantUML diagrams.
 
 ## Entertainment and Fun
 - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with.
@@ -118,7 +121,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator) - I turn your text into Emoji
 - [Excalibur](https://chat.openai.com/g/g-lV3kVHYcz-excalibur) - Attempt to pull the legendary sword from the stone.
 - [From Another Time](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time) - Talk to anyone, visit a place, past or future.
+- [Guess a Word](https://chat.openai.com/g/g-QiPBZt4Zo-guess-a-word) - Discover words through images in 'Guess a Word', where each picture is a puzzle waiting to be solved!
 - [GPTarantinofy](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy) - Turns anything into a Tarantino styled scene.
+- [Homer Humor](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor) - Relieve your stressful mood with classic Simpson's humor
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
 - [Makeup Maven](https://chat.openai.com/g/g-XJ1gJkBcQ-makeup-maven) - An expert in makeup products, providing tailored recommendations based on preferences and skin types.
 - [Music Bot](https://chat.openai.com/g/g-2CmnN7kuF-music-bot) - Lyric writing, genre identification, and beat suggestions
@@ -132,12 +137,10 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
-- [Homer Humor](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor) - Relieve your stressful mood with classic Simpson's humor
-- [Guess a Word](https://chat.openai.com/g/g-QiPBZt4Zo-guess-a-word) - Discover words through images in 'Guess a Word', where each picture is a puzzle waiting to be solved!
 
 ## Education and Learning
 - [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
-- [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
+- [Bhagavad Gita Guide](https://chat.openai.com/g/g-MzIE52wA6-bhagavad-gita-guide) - Guidance from Bhagavad Gita for life's challenges, in user's language.
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
 - [ChessGPT](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt) - I am Magnus C·AI·rlsen, but I'll explain my moves.
 - [Children’s Education Pathfinder](https://chat.openai.com/g/g-CYnSsfKh3-children-s-education-pathfinder) - Professional, motivating guide for kids' education.
@@ -152,7 +155,6 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Histocomedy](https://chat.openai.com/g/g-lj8v9rBEd-histocomedy) - teaches history in a humorous format
 - [Homework Help](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) - Provides assistance with homework and educational inquiries.
 - [Instructional Design and Technology Expert](https://chat.openai.com/g/g-32zI7E5h0-instructional-design-and-technology-expert) - A master of instructional design and technology.
-- [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Helps in learning new languages.
 - [Lego Brick Innovator](https://chat.openai.com/g/g-sfsgCWXnE-lego-brick-innovator) - Mentor for creating innovative LEGO projects.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - Assists parents and students with math problems.
@@ -174,7 +176,13 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Syllabus Builder](https://chat.openai.com/g/g-ZS0jp3SJW-syllabus-builder) - Your personal instructional designer.
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
 - [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt) - I provide information from Wikipedia and links to further reading.
-- [Bhagavad Gita Guide](https://chat.openai.com/g/g-MzIE52wA6-bhagavad-gita-guide) - Guidance from Bhagavad Gita for life's challenges, in user's language.
+
+## Career and Guidance
+- [Career Coach](https://chat.openai.com/g/g-mCI8EIt9X-career-coach) - Find the job you want with career pathing, job listings search, mock interviews, and resume review.
+- [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
+- [Cognitive Behavioral Therapist][https://chat.openai.com/g/g-QvVtRHZeB-cognitive-behavioral-therapist] - Your CBT counselor to talk you through anxious and stressful situations.
+- [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
+- [Life Coach](https://chat.openai.com/g/g-u9lNVsHab-life-coach) - Transform your dreams into reality by setting goals, creating plans, and taking action.
 
 ## Fitness and Health
 - [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable) - ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
@@ -184,10 +192,10 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Awesome Insights](https://chat.openai.com/g/g-fXwXTCnMO-awesome-insights) - A meditation coach for the AI age
 - [Chef Gpt](https://chat.openai.com/g/g-gX6f9h3yO-chef-gpt) - Make home cooking easy and fun.
 - [Crown Counselor](https://chat.openai.com/g/g-SqIkhgc26-crown-counselor-beta) - Dental implant patient education guru
+- [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness coach with workout visuals and resources.
 - [Food Guru](https://chat.openai.com/g/g-wfn8ST75q-food-guru) - Explore the world of food - A GPT focused on food topics with a humorous twist
 - [Immunization Insights](https://chat.openai.com/g/g-6o3Woxcw3-immunization-insights-beta) - Immunization support and advocacy guide
 - [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjPEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor.
-- [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness coach with workout visuals and resources.
 - [Meal Mate](https://chat.openai.com/g/g-q0YZFTXKs-meal-mate) - The Ultimate Meal Planning Assistant: Plan Around Dietary Restrictions, Budgetary Constraints, Nutritional Goals, Taste Preferences, & More!
 - [MyNutrition.Pal](https://chat.openai.com/g/g-PsK6IFvcV-mynutrition-pal) - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
 - [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in and off the field
@@ -211,6 +219,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [MyGovAdvisor](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor) - I'm a multilingual Government Agent - I'm here to assist you with any public service request
 - [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide) - Identifies plants & fungi from images and shares facts and folklore.
 - [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents by [ocr.chat](https://get.ocr.chat/gpt)
+- [Paris Ramen](https://chat.openai.com/g/g-Xgk42y6FH-paris-ramen) - Guiding you to the best ramen spots in Paris
 - [Product Coach](https://chat.openai.com/g/g-e0xH6MMQs-product-coach) - Provides insights for product development.
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve) - CVE data lookup
 - [Seat Seeker](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker) - Finding the right place for you.
@@ -222,7 +231,6 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Weather Whiskers](https://chat.openai.com/g/g-Qb4WOntiy-weatherwhiskers) - I generate a cute weather forecast image in your location, just tell me where you are.
 - [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb.
 - [时间序列预测专家](https://chat.openai.com/g/g-n6tIz5rIq-shi-jian-xu-lie-yu-ce-zhuan-jia) - Time series prediction expert in Chinese
-- [Paris Ramen](https://chat.openai.com/g/g-Xgk42y6FH-paris-ramen) - Guiding you to the best ramen spots in Paris
 
 ## Specialized Engineering Disciplines
 - [Ezra](https://chat.openai.com/g/g-VcnrTHoIS-ezra) - Quirky and brilliant Systems Engineering professor, weaving truth and expertise with a touch of whimsy.
