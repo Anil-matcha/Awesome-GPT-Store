@@ -163,6 +163,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [MediTrainNHS](https://chat.openai.com/g/g-RCz7BkyQJ-meditrainnhs) - An unofficial assistant for current and prospective NHS doctors in training, with extensive NHS-related knowledge.
 - [MSRA Coach](https://chat.openai.com/g/g-MVzmdzbO3-msra-coach) - Unofficial Multi-Specialty Recruitment Assessment (MSRA) Coach and Exam Preparation Mentor.
 - [MyScale Free Knowledge Base](https://chat.openai.com/g/g-193M4NO0q-chat-with-free-knowledge-base) - Elevate your chat experience with enriched knowledge from ArXiv and Wikipedia.
+- [Research Methods Mentor](https://chat.openai.com/g/g-NEZ1m7XRz-research-methods-mentor) - Get highly trained expert advice on methods of social science research
 - [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences) - Discover the latest trends in  STEM disciplines
 - [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences) - Discover the latest trends in social sciences and other disciplines
 - [Scientific Research Digest](https://chat.openai.com/g/g-XrX7bd1HU-scientific-research-digest) - Finds and summarizes recent papers in biology, chemistry, and biomedical sciences.
