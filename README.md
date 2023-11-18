@@ -26,6 +26,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) - GPT chatbot specializing in XGBoost algorithm and library.
 - [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support) - Quick command-line help and code snippets, defaults to Linux & Python.
 - [Crow](https://chat.openai.com/g/g-FJbohiuK0-crow) - Send a link, and I'll bring back the key points!
+- [Custom GPT Wizard](https://chat.openai.com/g/g-DrpPDbvY6-custom-gpt-wizard) - Opensource knowledge-driven tool guiding users through the entire GPT development lifecycle, from conceptualization to customization and deployment.
 - [EditGPT](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt) - Friendly video editing and image creation assistant.
 - [ExtractTableGPT](https://chat.openai.com/g/g-KbifnBjyz-extracttablegpt) - Extract table data from any docs into multiple formats.
 - [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Provides verification with live links.
