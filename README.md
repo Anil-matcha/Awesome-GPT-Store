@@ -67,6 +67,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
 - [Midjourney Prompt Generator](https://chat.openai.com/g/g-9PDMI3Fqr-midjourney-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
 - [Midjourney](https://chat.openai.com/g/g-MD9ZplW7q-midjourney) - AI chatbot for Midjourney-style image creation
+- [NSF Proposal Partner](https://chat.openai.com/g/g-00Nu0FoNA-nsf-proposal-partner) - Your assistant for writing NSF grant proposals, trained on past successful proposals.
 - [PresentationGPT](https://chat.openai.com/g/g-6fEHnJPXY-presentationgpt) - AI bot specializing in creating presentation outlines
 - [ProductGPT](https://chat.openai.com/g/g-GUjYfiBrG-productgpt) - Your Ultimate Product Naming and Description Assistant
 - [Quill](https://chat.openai.com/g/g-FqN5gHFkP-quill) - Write blogs like a human
