@@ -17,6 +17,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Coding and Development](#coding-and-development)
 - [Entertainment and Fun](#entertainment-and-fun)
 - [Education and Learning](#education-and-learning)
+- [Career and Guidance](#career-and-guidance)
 - [Fitness and Health](#fitness-and-health)
 - [Miscellaneous](#miscellaneous)
 
@@ -136,7 +137,6 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 
 ## Education and Learning
 - [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
-- [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
 - [ChessGPT](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt) - I am Magnus C·AI·rlsen, but I'll explain my moves.
 - [Children’s Education Pathfinder](https://chat.openai.com/g/g-CYnSsfKh3-children-s-education-pathfinder) - Professional, motivating guide for kids' education.
@@ -151,7 +151,6 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Histocomedy](https://chat.openai.com/g/g-lj8v9rBEd-histocomedy) - teaches history in a humorous format
 - [Homework Help](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) - Provides assistance with homework and educational inquiries.
 - [Instructional Design and Technology Expert](https://chat.openai.com/g/g-32zI7E5h0-instructional-design-and-technology-expert) - A master of instructional design and technology.
-- [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Helps in learning new languages.
 - [Lego Brick Innovator](https://chat.openai.com/g/g-sfsgCWXnE-lego-brick-innovator) - Mentor for creating innovative LEGO projects.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - Assists parents and students with math problems.
@@ -174,6 +173,13 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
 - [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt) - I provide information from Wikipedia and links to further reading.
 - [Bhagavad Gita Guide](https://chat.openai.com/g/g-MzIE52wA6-bhagavad-gita-guide) - Guidance from Bhagavad Gita for life's challenges, in user's language.
+
+## Career and Guidance
+- [Career Coach](https://chat.openai.com/g/g-mCI8EIt9X-career-coach) - Find the job you want with career pathing, job listings search, mock interviews, and resume review.
+- [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
+- [Cognitive Behavioral Therapist)[https://chat.openai.com/g/g-QvVtRHZeB-cognitive-behavioral-therapist] - Your CBT counselor to talk you through anxious and stressful situations.
+- [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
+- [Life Coach](https://chat.openai.com/g/g-u9lNVsHab-life-coach) - Transform your dreams into reality by setting goals, creating plans, and taking action.
 
 ## Fitness and Health
 - [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable) - ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
