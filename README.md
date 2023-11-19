@@ -105,6 +105,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Software Architecture Visualiser](https://chat.openai.com/g/g-FJhVmVrg8-software-architecture-visualiser) - Helps to visualize your software architecture using PlantUML diagrams.
 - [Test Double](https://chat.openai.com/g/g-yK9Ggt181-test-double) - Expert in creating diverse test data for development needs in various formats.
 - [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
+- [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) - Perform 3rd party software security review.
 
 ## Entertainment and Fun
 - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with.
