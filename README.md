@@ -137,9 +137,11 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
+- [Visual Racter](https://chat.openai.com/g/g-7syRqVmHu-visual-racter) - A next generation version of a wacky, peculiar, chatbot called Racter from 1984
 - [StoryInteractive](https://chat.openai.com/g/g-uUHZMlJpa-storyinteractive) - Create, Play and Experience your own fully illustrated interactive fiction stories, endless adventures
 
 ## Education and Learning
+- [5 Levels](https://chat.openai.com/g/g-93zIc4RX8-5-levels) - Describing any topic or subject in 5 levels of detail. Inspired by the "WIRED 5 Levels" video series.
 - [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
 - [Bhagavad Gita Guide](https://chat.openai.com/g/g-MzIE52wA6-bhagavad-gita-guide) - Guidance from Bhagavad Gita for life's challenges, in user's language.
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
