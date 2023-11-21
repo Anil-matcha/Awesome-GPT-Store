@@ -143,6 +143,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 
 ## Education and Learning
 - [5 Levels](https://chat.openai.com/g/g-93zIc4RX8-5-levels) - Describing any topic or subject in 5 levels of detail. Inspired by the "WIRED 5 Levels" video series.
+- [AI Daily Digest](https://chat.openai.com/g/g-th685hNma-ai-daily-digest) - Stay up-to-date on the latest AI news and research.
 - [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
 - [Bhagavad Gita Guide](https://chat.openai.com/g/g-MzIE52wA6-bhagavad-gita-guide) - Guidance from Bhagavad Gita for life's challenges, in user's language.
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
