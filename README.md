@@ -108,11 +108,13 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) - Perform 3rd party software security review.
 
 ## Entertainment and Fun
+- [20 Questions](https://chat.openai.com/g/g-tDUzfZTxo-20-questions) - Play the game "20 Questions" against ChatGPT
 - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with.
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt) - The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
 - [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.
 - [BlackjackGPT](https://chat.openai.com/g/g-LptUSKHwc-blackjackgpt) - Blackjack Simulator
 - [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt) - Create your own gemstone bracelets with live 3D
+- [Celebrity Critter Creator](https://chat.openai.com/g/g-moHqu685w-celebrity-critter-creator) - Create funny mashups of famous celebrities with animals
 - [Character Chat](https://chat.openai.com/g/g-io8IgJKMR-character-chat) - Have a realistic chat with any historical figure or character. Always stays in character.
 - [DJGPT](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.) - Your go-to DJ and music mixing advisor.
 - [Dungeon Crawler](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler) - Guide players through a dynamic, ever-changing RPG dungeon.
@@ -133,6 +135,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper) - I keep score, for games.
 - [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) - Transcribes and summarizes audio content.
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
+- [T or D](https://chat.openai.com/g/g-cUz6Adczm-t-or-d) - Play "Truth or Dare"
 - [Text My Pet](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet) - Text your favorite pet after answering 10 short question about their activities.
 - [TinderBot](https://chat.openai.com/g/g-BlfF7RFjD-tinderbot) - Share with me some details or insights about your match, and I'll create personalised, witty Tinder ice breakers with a touch of cheekiness and emojis.
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
@@ -140,6 +143,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
 - [Visual Racter](https://chat.openai.com/g/g-7syRqVmHu-visual-racter) - A next generation version of a wacky, peculiar, chatbot called Racter from 1984
 - [StoryInteractive](https://chat.openai.com/g/g-uUHZMlJpa-storyinteractive) - Create, Play and Experience your own fully illustrated interactive fiction stories, endless adventures
+- [Zodiac Chuckler](https://chat.openai.com/g/g-Coph8tZoq-zodiac-chuckler) - Your daily dose of zodiac-based humor and light-hearted advice.
 
 ## Education and Learning
 - [5 Levels](https://chat.openai.com/g/g-93zIc4RX8-5-levels) - Describing any topic or subject in 5 levels of detail. Inspired by the "WIRED 5 Levels" video series.
