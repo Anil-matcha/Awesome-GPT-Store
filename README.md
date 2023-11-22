@@ -76,6 +76,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Storyteller](https://chat.openai.com/g/g-dmgFloZ5w-storyteller) - Weaves stories with a blend of writing and design.
 - [Swiftify](https://chat.openai.com/g/g-6TtZAfPrw-swiftify) - AI Taylor Swift Songwriting Companion
 - [UX Advisor](https://chat.openai.com/g/g-5SDP6CS1W-ux-advisor) - Get UX feedback by uploading an image or by defining your problem.
+- [Viral YouTube Ideas by Ideacadabra](https://chat.openai.com/g/g-yGCt9ZipA-viral-youtube-video-ideas-by-ideacadabra) - YouTube Creators! I personalize viral video ideas for your channel.
 - [Wild Geometrica](https://chat.openai.com/g/g-LnpmXIlFt-wild-geometrica) - Structured shapes dance with untamed creatures, painting a canvas of awe and wonder. A MindRenders.com GPT.
 - [ZILL·O](https://chat.openai.com/g/g-GvEjrjX6o-zill-o) - is here
 - [❤️](https://chat.openai.com/g/g-pYZlrNIR8-) - with love
