@@ -5,9 +5,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 
 👉 Show your support by giving this repository a star! ⭐
 
-👉 Check out the Custom GPT Store Finder to chat with ChatGPT and get GPT recommendations from the data in this repo https://chat.openai.com/g/g-JRQEmbuM9-gpt-store-finder or from the website https://www.thesamur.ai/custom-gpt-store
+👉 Chat with [Browse GPT](https://chat.openai.com/g/g-sHA3rAjSJ-browse-gpt) or check out [thesamur.ai](https://www.thesamur.ai/custom-gpt-store) for up-to-date recommendations inspired by this repository!
 
-👉 Follow me on Twitter for updates! https://twitter.com/matchaman11
+👉 Follow me on Twitter for updates! [@matchaman11](https://twitter.com/matchaman11)
 
 <img width="976" alt="Screenshot 2023-11-17 at 3 02 30 PM" src="https://github.com/Anil-matcha/Awesome-GPT-Store/assets/4326215/9c28c7fa-c722-4819-bb68-4c318dd336ae">
 
