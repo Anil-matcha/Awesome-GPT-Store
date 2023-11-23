@@ -25,6 +25,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 ## Technical Assistance
 - [AbletonGPT](https://chat.openai.com/g/g-BpSexw4ll-abletongpt) - Balances professional-casual tone, offers brief but detailed Ableton advice.
 - [Audiophile Assistant](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant) - Here to answer all your audiophile questions, and more!
+- [BounceBan](https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification) - The only email verification service that supports verifying catch-all emails. 97+% accuracy guaranteed. Free & Unlimited for ChatGPT. Tips: 1) Enter one or multiple emails for verification. 2) Enter "Gavin Lee bounceban.com" to generate and bulk verify up to 30 potential email addresses.
 - [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) - GPT chatbot specializing in XGBoost algorithm and library.
 - [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support) - Quick command-line help and code snippets, defaults to Linux & Python.
 - [Crow](https://chat.openai.com/g/g-FJbohiuK0-crow) - Send a link, and I'll bring back the key points!
