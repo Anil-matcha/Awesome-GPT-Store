@@ -210,7 +210,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 ## Career and Guidance
 - [Career Coach](https://chat.openai.com/g/g-mCI8EIt9X-career-coach) - Find the job you want with career pathing, job listings search, mock interviews, and resume review.
 - [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
-- [Cognitive Behavioral Therapist][https://chat.openai.com/g/g-QvVtRHZeB-cognitive-behavioral-therapist] - Your CBT counselor to talk you through anxious and stressful situations.
+- [Cognitive Behavioral Therapist](https://chat.openai.com/g/g-QvVtRHZeB-cognitive-behavioral-therapist) - Your CBT counselor to talk you through anxious and stressful situations.
 - [Dream Explorer](https://chat.openai.com/g/g-rVClpyWiw-dream-explorer) - Interpreting dreams with psychoanalysis and mythology.
 - [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 - [Life Coach](https://chat.openai.com/g/g-u9lNVsHab-life-coach) - Transform your dreams into reality by setting goals, creating plans, and taking action.
