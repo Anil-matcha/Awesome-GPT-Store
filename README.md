@@ -25,6 +25,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 ## Technical Assistance
 - [AbletonGPT](https://chat.openai.com/g/g-BpSexw4ll-abletongpt) - Balances professional-casual tone, offers brief but detailed Ableton advice.
 - [Audiophile Assistant](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant) - Here to answer all your audiophile questions, and more!
+- [BounceBan](https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification) - The only email verification service that supports verifying catch-all emails. 97+% accuracy guaranteed. Free & Unlimited for ChatGPT. Tips: 1) Enter one or multiple emails for verification. 2) Enter "Gavin Lee bounceban.com" to generate and bulk verify up to 30 potential email addresses.
 - [ChatGPT Utilities](https://chat.openai.com/g/g-97CBY2PEq-chatgpt-utilities) - Exclusive tools built to utilize ChatGPT's exported chat records.
 - [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) - GPT chatbot specializing in XGBoost algorithm and library.
 - [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support) - Quick command-line help and code snippets, defaults to Linux & Python.
@@ -241,6 +242,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint) - Find and analyze branded website and social account data.
 - [Compare Images](https://chat.openai.com/g/g-4eQMR7Npu-compare-images) - Upload and compare two image files.
 - [Conto alla romana](https://chat.openai.com/g/g-KHejMFXCx-conto-alla-romana) - Quickly calculates cost per person for groups
+- [CE5 Contact Guide](https://chat.openai.com/g/g-jGmq6u5RH-ce5-guide) - Guides you through Dr David Greer's CE5 contact protocal
 - [Currency Converter](https://chat.openai.com/g/g-ZNvavsN3l) - Real-time currency conversion tool.
 - [DAD](https://chat.openai.com/g/g-7tYB6K5F8-dad) - DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
 - [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis) - Visual design tool.
