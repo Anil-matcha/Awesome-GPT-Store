@@ -23,14 +23,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Miscellaneous](#miscellaneous)
 
 ## Technical Assistance
-- [Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary) - Summarize GitHub repository README files.
-- [ChatGPT Utilities](https://chat.openai.com/g/g-97CBY2PEq-chatgpt-utilities) - Exclusive tools built to utilize ChatGPT's exported chat records.
-- [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier) - Expand simple text searches with multiple related search options. 
-- [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata) - Upload and generate metadata for image and text files.
-- [Instructions for Custom GPTs](https://chat.openai.com/g/g-yAwEVaLkf-instructions-for-custom-gpts) - Custom GPT instruction creation guide.
-- [GPT Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide) - Helpful and informative.
 - [AbletonGPT](https://chat.openai.com/g/g-BpSexw4ll-abletongpt) - Balances professional-casual tone, offers brief but detailed Ableton advice.
 - [Audiophile Assistant](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant) - Here to answer all your audiophile questions, and more!
+- [ChatGPT Utilities](https://chat.openai.com/g/g-97CBY2PEq-chatgpt-utilities) - Exclusive tools built to utilize ChatGPT's exported chat records.
 - [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) - GPT chatbot specializing in XGBoost algorithm and library.
 - [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support) - Quick command-line help and code snippets, defaults to Linux & Python.
 - [Crow](https://chat.openai.com/g/g-FJbohiuK0-crow) - Send a link, and I'll bring back the key points!
@@ -39,10 +34,13 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [ExtractTableGPT](https://chat.openai.com/g/g-KbifnBjyz-extracttablegpt) - Extract table data from any docs into multiple formats.
 - [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Provides verification with live links.
 - [File Converter](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) - Assists in converting files between different formats.
+- [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata) - Upload and generate metadata for image and text files.
 - [Gantt Chart GPT](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt) - This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)
+- [GPT Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide) - Helpful and informative.
 - [GPT-Searcher](https://chat.openai.com/g/g-N3lcOTajR-gpt-searcher) - I find the perfect GPT for your needs and guide you there with a fun description!
 - [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
 - [GetSite9000](https://chat.openai.com/g/g-SgR7h0b2T-getsite9000) - Create a personal or business website and host it.
+- [Instructions for Custom GPTs](https://chat.openai.com/g/g-yAwEVaLkf-instructions-for-custom-gpts) - Custom GPT instruction creation guide.
 - [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt) - Your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
 - [Product Engineer](https://chat.openai.com/g/g-4hXZITeda-product-engineer) - Find inventive solutions to engineering problems.
@@ -50,24 +48,24 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Prompt Crafter](https://chat.openai.com/g/g-0olkkYtUo-prompt-crafter) - Assists you in creating well-defined prompts effortlessly.
 - [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts
 - [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
+- [Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary) - Summarize GitHub repository README files.
 - [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
+- [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier) - Expand simple text searches with multiple related search options. 
 - [Summary Sage with tags](https://chat.openai.com/g/g-UV2FOzD60-summary-sage-with-tags) - Expert in summarizing and categorizing
+
 - [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
 
 ## Writing and Content Creation
-- [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes) - Intelligent note recording assistant.
-- [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story) - Collaborative storytelling across different genres.
-- [Newspaper Maker](https://chat.openai.com/g/g-SRHSPE2Q6-newspaper-maker) - Unbiased newspaper creator and recreator.
-- [Quotes & Clips](https://chat.openai.com/g/g-WIzvJxZqt-quotes-clips) - Create quotes and take portions from text documents.
-- [Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator) - Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Writing assistant for academic and professional needs.
 - [Animation Creation](https://chat.openai.com/g/g-mMk82EkTz-animation-creation) - Create animated scenes and characters that resemble a 3D animated movie. A MindRenders.com creation.
 - [Bias Detector](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector) - Analyzes news stories for right or left biases.
 - [Cakes](https://chat.openai.com/g/g-iR4UIvIX2-cakes) - Send a gift to your cares
+- [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story) - Collaborative storytelling across different genres.
 - [Cold Mail](https://chat.openai.com/g/g-iVolzNwa5-cold-mail-by-domore-ai) - Engage prospective customers using personalized cold emails based on your offer's URL and the URL of the customer's website.
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint) - I challenge ideas to provoke thought.
 - [Cover Letter GPT](https://chat.openai.com/g/g-MYSzNumup-cover-letter-gpt) - Expert in creating tailored cover letters based on job descriptions
 - [Dalle3 Prompt Generator](https://chat.openai.com/g/g-SRCi7viea-dalle3-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
+- [Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator) - Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
 - [Esports Logo Creator](https://chat.openai.com/g/g-2GXckoSaK-esports-logo-creator) - Create a professional esports logo for you or your team.
 - [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom) - Extracts key insights from texts.
 - [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Fact checks web pages, documents, assertions and calculations and returns links for verification.
@@ -79,11 +77,14 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
 - [Midjourney Prompt Generator](https://chat.openai.com/g/g-9PDMI3Fqr-midjourney-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
 - [Midjourney](https://chat.openai.com/g/g-MD9ZplW7q-midjourney) - AI chatbot for Midjourney-style image creation
+- [Newspaper Maker](https://chat.openai.com/g/g-SRHSPE2Q6-newspaper-maker) - Unbiased newspaper creator and recreator.
 - [NSF Proposal Partner](https://chat.openai.com/g/g-00Nu0FoNA-nsf-proposal-partner) - Your assistant for writing NSF grant proposals, trained on past successful proposals.
 - [PresentationGPT](https://chat.openai.com/g/g-6fEHnJPXY-presentationgpt) - AI bot specializing in creating presentation outlines
 - [ProductGPT](https://chat.openai.com/g/g-GUjYfiBrG-productgpt) - Your Ultimate Product Naming and Description Assistant
 - [Quill](https://chat.openai.com/g/g-FqN5gHFkP-quill) - Write blogs like a human
+- [Quotes & Clips](https://chat.openai.com/g/g-WIzvJxZqt-quotes-clips) - Create quotes and take portions from text documents.
 - [Rewrite](https://chat.openai.com/g/g-ICtJkldZu-rewrite) - Offers fresh suggestions for your writing
+- [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes) - Intelligent note recording assistant.
 - [Storyteller](https://chat.openai.com/g/g-dmgFloZ5w-storyteller) - Weaves stories with a blend of writing and design.
 - [Swiftify](https://chat.openai.com/g/g-6TtZAfPrw-swiftify) - AI Taylor Swift Songwriting Companion
 - [UX Advisor](https://chat.openai.com/g/g-5SDP6CS1W-ux-advisor) - Get UX feedback by uploading an image or by defining your problem.
@@ -120,20 +121,17 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) - Perform 3rd party software security review.
 
 ## Entertainment and Fun
-- [ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator) - Automated teller machine (ATM) simulator.
-- [Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game) - Initially, you're 25 steps away from the treasure, but the exact direction is a mystery. 
-- [Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker) - Quick-response random character game.
-- [Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades) - Single player charades game.
-- [Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody) - Parodize song lyrics.
-- [Connect 4](https://chat.openai.com/g/g-th53SwFkS-connect-4) - The original Connect 4 game.
 - [20 Questions](https://chat.openai.com/g/g-tDUzfZTxo-20-questions) - Play the game "20 Questions" against ChatGPT
 - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with.
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt) - The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
 - [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.
+- [ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator) - Automated teller machine (ATM) simulator.
 - [BlackjackGPT](https://chat.openai.com/g/g-LptUSKHwc-blackjackgpt) - Blackjack Simulator
 - [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt) - Create your own gemstone bracelets with live 3D
 - [Celebrity Critter Creator](https://chat.openai.com/g/g-moHqu685w-celebrity-critter-creator) - Create funny mashups of famous celebrities with animals
 - [Character Chat](https://chat.openai.com/g/g-io8IgJKMR-character-chat) - Have a realistic chat with any historical figure or character. Always stays in character.
+- [Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades) - Single player charades game.
+- [Connect 4](https://chat.openai.com/g/g-th53SwFkS-connect-4) - The original Connect 4 game.
 - [DJGPT](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.) - Your go-to DJ and music mixing advisor.
 - [Dungeon Crawler](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler) - Guide players through a dynamic, ever-changing RPG dungeon.
 - [Dungeon Master](https://chat.openai.com/g/g-8l13Uo8to-dungeon-master) - Visual Dungeon Master for D&D 5E, bringing adventure to life!
@@ -149,14 +147,17 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Makeup Maven](https://chat.openai.com/g/g-XJ1gJkBcQ-makeup-maven) - An expert in makeup products, providing tailored recommendations based on preferences and skin types.
 - [Music Bot](https://chat.openai.com/g/g-2CmnN7kuF-music-bot) - Lyric writing, genre identification, and beat suggestions
 - [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters, from the user's photos.
+- [Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker) - Quick-response random character game.
 - [Romance](https://chat.openai.com/g/g-p4L4KuEdO-romance) - Your AI companion for romantic advice and conversations.
 - [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper) - I keep score, for games.
+- [Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody) - Parodize song lyrics.
 - [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) - Transcribes and summarizes audio content.
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
 - [T or D](https://chat.openai.com/g/g-cUz6Adczm-t-or-d) - Play "Truth or Dare"
 - [Text My Pet](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet) - Text your favorite pet after answering 10 short question about their activities.
 - [TinderBot](https://chat.openai.com/g/g-BlfF7RFjD-tinderbot) - Share with me some details or insights about your match, and I'll create personalised, witty Tinder ice breakers with a touch of cheekiness and emojis.
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
+- [Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game) - Initially, you're 25 steps away from the treasure, but the exact direction is a mystery. 
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
 - [Visual Racter](https://chat.openai.com/g/g-7syRqVmHu-visual-racter) - A next generation version of a wacky, peculiar, chatbot called Racter from 1984
@@ -234,42 +235,42 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Weight Loss Scientist](https://chat.openai.com/g/g-JNl86bHVQ-weight-loss-scientist) - A scientist specializing in healthy, holistic weight loss methods.
 
 ## Miscellaneous
-- [Travel Organizer](https://chat.openai.com/g/g-NEe3uxaT2-travel-organizer) - Organize essential travel guest info.
-- [Meeting Place](https://chat.openai.com/g/g-h91vaXdbQ-meeting-place) - Find the optimal location for your meeting.
-- [Travel Receptionist](https://chat.openai.com/g/g-gAoU9RsLx-travel-receptionist) - Hotel and motel management assistant.
 - [ACSII Text Art](https://chat.openai.com/g/g-G7eF51owY-acsii-text-art) - Convert text into creative ACSII art.
-- [Image Collage](https://chat.openai.com/g/g-UaXXt6DdU-image-collage) - Upload your images and create a collage.
-- [Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark) - Upload and watermark your image files.
-- [Compare Images](https://chat.openai.com/g/g-4eQMR7Npu-compare-images) - Upload and compare two image files.
-- [Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand) - Create conceptual rebranded product images.
-- [Fanatic Creator](https://chat.openai.com/g/g-4jZ8rABSo-fanatic-creator) - Fan artist tool.
-- [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis) - Visual design tool.
-- [Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value) - Used marketplace listing helper.
-- [Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint) - Find and analyze branded website and social account data.
-- [ISO](https://chat.openai.com/g/g-kPQjsGEA5-iso) - International Organization for Standardization (ISO) guide.
-- [Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts) - Promotional business shoutouts for x.com.
-- [Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value) - Estimate the current price of custom desktop computers and hardware.
-- [Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant) - Solve science problems and questions.
 - [AI Websites](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites) - Creates professional websites quickly.
 - [Bitcoin Whitepaper Chat](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat) - Chat with the official Bitcoin Whitepaper
+- [Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint) - Find and analyze branded website and social account data.
+- [Compare Images](https://chat.openai.com/g/g-4eQMR7Npu-compare-images) - Upload and compare two image files.
 - [Conto alla romana](https://chat.openai.com/g/g-KHejMFXCx-conto-alla-romana) - Quickly calculates cost per person for groups
 - [Currency Converter](https://chat.openai.com/g/g-ZNvavsN3l) - Real-time currency conversion tool.
 - [DAD](https://chat.openai.com/g/g-7tYB6K5F8-dad) - DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
+- [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis) - Visual design tool.
+- [Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value) - Estimate the current price of custom desktop computers and hardware.
 - [Dog Facts](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts) - Provides interesting facts about dogs.
-- [Product Support](https://chat.openai.com/g/g-zWeEn9xnl-product-support) - Expert SaaS Support Engineer with deep problem-solving skills.
+- [Fanatic Creator](https://chat.openai.com/g/g-4jZ8rABSo-fanatic-creator) - Fan artist tool.
 - [FlexChat.ai Guide](https://chat.openai.com/g/g-UMvFKMQxt-flexchat-ai-guide) - A FlexChat.ai Tutor
 - [GPT Selector](https://chat.openai.com/g/g-KxGmdTS9t-gpt-selector) - Helps you find the right GPT
+- [Image Collage](https://chat.openai.com/g/g-UaXXt6DdU-image-collage) - Upload your images and create a collage.
+- [Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark) - Upload and watermark your image files.
 - [Investor GPT](https://chat.openai.com/g/g-XLPH8Cfph-investor-gpt) - Seamless investor matching for founders.
+- [ISO](https://chat.openai.com/g/g-kPQjsGEA5-iso) - International Organization for Standardization (ISO) guide.
 - [Lunch Wheel](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel) - Helps you decide where to eat based on where you are and what you're in the mood for. Spin the wheel!
+- [Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value) - Used marketplace listing helper.
+- [Meeting Place](https://chat.openai.com/g/g-h91vaXdbQ-meeting-place) - Find the optimal location for your meeting.
 - [MyGovAdvisor](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor) - I'm a multilingual Government Agent - I'm here to assist you with any public service request
 - [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide) - Identifies plants & fungi from images and shares facts and folklore.
 - [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents by [ocr.chat](https://get.ocr.chat/gpt)
 - [Paris Ramen](https://chat.openai.com/g/g-Xgk42y6FH-paris-ramen) - Guiding you to the best ramen spots in Paris
 - [Product Coach](https://chat.openai.com/g/g-e0xH6MMQs-product-coach) - Provides insights for product development.
+- [Product Support](https://chat.openai.com/g/g-zWeEn9xnl-product-support) - Expert SaaS Support Engineer with deep problem-solving skills.
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve) - CVE data lookup
+- [Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand) - Create conceptual rebranded product images.
+- [Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant) - Solve science problems and questions.
+- [Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts) - Promotional business shoutouts for x.com.
 - [Seat Seeker](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker) - Finding the right place for you.
 - [The Shaman](https://chat.openai.com/g/g-Klhv0H49u-the-shaman) - The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys.
 - [The Stoic Council](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council) - Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus.
+- [Travel Organizer](https://chat.openai.com/g/g-NEe3uxaT2-travel-organizer) - Organize essential travel guest info.
+- [Travel Receptionist](https://chat.openai.com/g/g-gAoU9RsLx-travel-receptionist) - Hotel and motel management assistant.
 - [Touch Up Paint Helper](https://chat.openai.com/g/g-ulC8M1cJn-touch-up-paint-helper) - How to use automotive touch-up paint to fix scratches and chips on your car.
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans.
 - [Waste Wizard](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard) - I turn your waste into wonders with ideas, steps, pictures.
