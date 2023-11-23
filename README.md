@@ -143,6 +143,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [From Another Time](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time) - Talk to anyone, visit a place, past or future.
 - [Guess a Word](https://chat.openai.com/g/g-QiPBZt4Zo-guess-a-word) - Discover words through images in 'Guess a Word', where each picture is a puzzle waiting to be solved!
 - [GPTarantinofy](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy) - Turns anything into a Tarantino styled scene.
+- [GyattGPT](https://chat.openai.com/g/g-sqEQTZpDf-gyattgpt) - GPT with Gen Z lingo
 - [Homer Humor](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor) - Relieve your stressful mood with classic Simpson's humor
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
 - [Makeup Maven](https://chat.openai.com/g/g-XJ1gJkBcQ-makeup-maven) - An expert in makeup products, providing tailored recommendations based on preferences and skin types.
@@ -163,6 +164,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
 - [Visual Racter](https://chat.openai.com/g/g-7syRqVmHu-visual-racter) - A next generation version of a wacky, peculiar, chatbot called Racter from 1984
 - [StoryInteractive](https://chat.openai.com/g/g-uUHZMlJpa-storyinteractive) - Create, Play and Experience your own fully illustrated interactive fiction stories, endless adventures
+- [WrongGPT](https://chat.openai.com/g/g-DhOutKD2I-wronggpt) - Answers questions confidently and incorrectly
 - [Zodiac Chuckler](https://chat.openai.com/g/g-Coph8tZoq-zodiac-chuckler) - Your daily dose of zodiac-based humor and light-hearted advice.
 
 ## Education and Learning
@@ -170,6 +172,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [AI Daily Digest](https://chat.openai.com/g/g-th685hNma-ai-daily-digest) - Stay up-to-date on the latest AI news and research.
 - [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
 - [Bhagavad Gita Guide](https://chat.openai.com/g/g-MzIE52wA6-bhagavad-gita-guide) - Guidance from Bhagavad Gita for life's challenges, in user's language.
+- [Celebrity Book Finder](https://chat.openai.com/g/g-AY82KxZMH-celebrity-book-finder) - Find out what celebrities are reading!
+- [ChaatGPT](https://chat.openai.com/g/g-kwJqxVgql-chaatgpt) - U.S. College Advisor for Indian Students
+- [ChatGTO](https://chat.openai.com/g/g-xk7H68HgQ-chatgto) - Your personalized poker coach. Analyze your hands using game theory optimal (GTO) principles.
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
 - [ChessGPT](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt) - I am Magnus C·AI·rlsen, but I'll explain my moves.
 - [Children’s Education Pathfinder](https://chat.openai.com/g/g-CYnSsfKh3-children-s-education-pathfinder) - Professional, motivating guide for kids' education.
@@ -187,6 +192,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Helps in learning new languages.
 - [Lego Brick Innovator](https://chat.openai.com/g/g-sfsgCWXnE-lego-brick-innovator) - Mentor for creating innovative LEGO projects.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - Assists parents and students with math problems.
+- [Moon Watcher](https://chat.openai.com/g/g-6saRzdc7g-moon-watcher) - I identify today's trending stocks and cryptocurrencies and explain why they're moving. Not financial advice.
 - [Motivated for Mandarin](https://chat.openai.com/g/g-hnYAvJChZ-motivated-for-mandarin) - A helpful guide for learning Mandarin, offering lessons, translation, interpretation and motivation.
 - [MediTrainNHS](https://chat.openai.com/g/g-RCz7BkyQJ-meditrainnhs) - An unofficial assistant for current and prospective NHS doctors in training, with extensive NHS-related knowledge.
 - [MSRA Coach](https://chat.openai.com/g/g-MVzmdzbO3-msra-coach) - Unofficial Multi-Specialty Recruitment Assessment (MSRA) Coach and Exam Preparation Mentor.
@@ -204,6 +210,10 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Six-Y](https://chat.openai.com/g/g-nMt5YfTeF-six-y) - Explains everything like you are 6 years old, and also paints an image of it.
 - [Spanish Friend](https://chat.openai.com/g/g-p5dJAcoT8-spanish-friend-language-conversation-improver) - Talk with me through some real-life scenarios and I will help you improve your foreign language skills through practice, translations and improvements.
 - [Syllabus Builder](https://chat.openai.com/g/g-ZS0jp3SJW-syllabus-builder) - Your personal instructional designer.
+- [U.S. College Advisor for Ethiopian Students](https://chat.openai.com/g/g-O29TG79Q8-u-s-college-advisor-for-ethiopian-students) - Advisor for Ethiopian students applying to U.S. colleges, offering tailored, supportive guidance.
+- [U.S. College Advisor for Japanese Students](https://chat.openai.com/g/g-3QpKtpkKn-u-s-college-advisor-for-japanese-students) - Friendly, informative advisor for Japanese students on U.S. college applications.
+- [U.S. College Advisor for South Korean Students](https://chat.openai.com/g/g-z4Dx0V5HB-u-s-college-advisor-for-south-korean-students) - Mentor for South Korean students on U.S. college applications
+- [U.S. College Advisor for U.K. Students](https://chat.openai.com/g/g-fhRtsoz1Z-u-s-college-advisor-for-u-k-students) - Advisor for U.K. students applying to U.S. colleges.
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
 - [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt) - I provide information from Wikipedia and links to further reading.
 
@@ -239,9 +249,13 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [ACSII Text Art](https://chat.openai.com/g/g-G7eF51owY-acsii-text-art) - Convert text into creative ACSII art.
 - [AI Websites](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites) - Creates professional websites quickly.
 - [Bitcoin Whitepaper Chat](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat) - Chat with the official Bitcoin Whitepaper
+<<<<<<< HEAD
 - [Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint) - Find and analyze branded website and social account data.
 - [CE5 Contact Guide](https://chat.openai.com/g/g-jGmq6u5RH-ce5-guide) - Guides you through Dr David Greer's CE5 contact protocal
 - [Compare Images](https://chat.openai.com/g/g-4eQMR7Npu-compare-images) - Upload and compare two image files.
+=======
+- [CE5 Contact Guide](https://chat.openai.com/g/g-jGmq6u5RH-ce5-guide) - Guides you through Dr David Greer's CE5 contact protocal
+>>>>>>> upstream/main
 - [Conto alla romana](https://chat.openai.com/g/g-KHejMFXCx-conto-alla-romana) - Quickly calculates cost per person for groups
 - [Currency Converter](https://chat.openai.com/g/g-ZNvavsN3l) - Real-time currency conversion tool.
 - [DAD](https://chat.openai.com/g/g-7tYB6K5F8-dad) - DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
