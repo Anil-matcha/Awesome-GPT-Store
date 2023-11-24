@@ -159,7 +159,8 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Text My Pet](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet) - Text your favorite pet after answering 10 short question about their activities.
 - [TinderBot](https://chat.openai.com/g/g-BlfF7RFjD-tinderbot) - Share with me some details or insights about your match, and I'll create personalised, witty Tinder ice breakers with a touch of cheekiness and emojis.
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
-- [Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game) - Initially, you're 25 steps away from the treasure, but the exact direction is a mystery. 
+- [Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game) - Initially, you're 25 steps away from the treasure, but the exact direction is a mystery.
+- [Truth or Dare Wizard](https://chat.openai.com/g/g-TJ7scFIZy-truth-or-dare-wizard) - Enjoy Truth or Dare with fun twists and your choices!
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
 - [Visual Racter](https://chat.openai.com/g/g-7syRqVmHu-visual-racter) - A next generation version of a wacky, peculiar, chatbot called Racter from 1984
