@@ -18,6 +18,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Entertainment and Fun](#entertainment-and-fun)
 - [Education and Learning](#education-and-learning)
 - [Career and Guidance](#career-and-guidance)
+- [Finance](#finance)
 - [Fitness and Health](#fitness-and-health)
 - [Fitness and Health](#fitness-and-health)
 - [Miscellaneous](#miscellaneous)
@@ -230,6 +231,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Job application consultant](https://chat.openai.com/g/g-FKG1aweuz-job-application-consultant) - Find out how well you fit the job. Provide the job offer you are applying and the resume. You will get an overall rating and a guidance.
 - [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 - [Life Coach](https://chat.openai.com/g/g-u9lNVsHab-life-coach) - Transform your dreams into reality by setting goals, creating plans, and taking action.
+
+## Finance
+- [**ForexGPT (Forex Rates)**](https://chat.openai.com/g/g-VpntOrQsh-forex-rates-free-version): Fetches real-time forex and crypto prices, performs market analysis, and calculates currency conversion using the latest exchange rates.
 
 ## Fitness and Health
 - [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable) - ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
