@@ -146,6 +146,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [GPTarantinofy](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy) - Turns anything into a Tarantino styled scene.
 - [GyattGPT](https://chat.openai.com/g/g-sqEQTZpDf-gyattgpt) - GPT with Gen Z lingo
 - [Homer Humor](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor) - Relieve your stressful mood with classic Simpson's humor
+- [Hoodie Creator](https://chat.openai.com/g/g-QWziThdPK-hoodie-creator) - The fashion designer for creating wonderful hoodies
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
 - [Makeup Maven](https://chat.openai.com/g/g-XJ1gJkBcQ-makeup-maven) - An expert in makeup products, providing tailored recommendations based on preferences and skin types.
 - [Music Bot](https://chat.openai.com/g/g-2CmnN7kuF-music-bot) - Lyric writing, genre identification, and beat suggestions
