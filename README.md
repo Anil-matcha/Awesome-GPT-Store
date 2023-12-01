@@ -176,6 +176,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [5 Levels](https://chat.openai.com/g/g-93zIc4RX8-5-levels) - Describing any topic or subject in 5 levels of detail. Inspired by the "WIRED 5 Levels" video series.
 - [AI Daily Digest](https://chat.openai.com/g/g-th685hNma-ai-daily-digest) - Stay up-to-date on the latest AI news and research.
 - [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
+- [AskGod](https://chat.openai.com/g/g-K9xssvkZt-askgod) - Answers questions about the Bible and God.
 - [Bhagavad Gita Guide](https://chat.openai.com/g/g-MzIE52wA6-bhagavad-gita-guide) - Guidance from Bhagavad Gita for life's challenges, in user's language.
 - [Celebrity Book Finder](https://chat.openai.com/g/g-AY82KxZMH-celebrity-book-finder) - Find out what celebrities are reading!
 - [ChaatGPT](https://chat.openai.com/g/g-kwJqxVgql-chaatgpt) - U.S. College Advisor for Indian Students
@@ -236,6 +237,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [**ForexGPT (Forex Rates)**](https://chat.openai.com/g/g-VpntOrQsh-forex-rates-free-version): Fetches real-time forex and crypto prices, performs market analysis, and calculates currency conversion using the latest exchange rates.
 
 ## Fitness and Health
+- [Acne Advisor](https://chat.openai.com/g/g-S3KHl5SZp-acne-advisor) - Acne guidance with a positive, engaging tone
 - [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable) - ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
 - [ADHD Buddy](https://chat.openai.com/g/g-iRPHXwXvs-adhd-buddy) - A multilingual supportive assistant for ADHD information and tips.
 - [AFYA](https://chat.openai.com/g/g-BJYh3YYFO-afya) - Multilingual health advisor for basic care in developing countries.
@@ -245,6 +247,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Crown Counselor](https://chat.openai.com/g/g-SqIkhgc26-crown-counselor-beta) - Dental implant patient education guru
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness coach with workout visuals and resources.
 - [Food Guru](https://chat.openai.com/g/g-wfn8ST75q-food-guru) - Explore the world of food - A GPT focused on food topics with a humorous twist
+- [Health Alert Assistant](https://chat.openai.com/g/g-5rHTk256p-health-alert-assistant) - Direct and clear health alerts with consistent tone.
 - [Immunization Insights](https://chat.openai.com/g/g-6o3Woxcw3-immunization-insights-beta) - Immunization support and advocacy guide
 - [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjPEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor.
 - [Meal Mate](https://chat.openai.com/g/g-q0YZFTXKs-meal-mate) - The Ultimate Meal Planning Assistant: Plan Around Dietary Restrictions, Budgetary Constraints, Nutritional Goals, Taste Preferences, & More!
@@ -282,6 +285,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide) - Identifies plants & fungi from images and shares facts and folklore.
 - [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents by [ocr.chat](https://get.ocr.chat/gpt)
 - [Paris Ramen](https://chat.openai.com/g/g-Xgk42y6FH-paris-ramen) - Guiding you to the best ramen spots in Paris
+- [Peaceful Tales](https://chat.openai.com/g/g-VtOmxD4fd-peaceful-tales) - Children's stories about friendship between Israeli and Palestinian kids
 - [Product Coach](https://chat.openai.com/g/g-e0xH6MMQs-product-coach) - Provides insights for product development.
 - [Product Support](https://chat.openai.com/g/g-zWeEn9xnl-product-support) - Expert SaaS Support Engineer with deep problem-solving skills.
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve) - CVE data lookup
