@@ -21,6 +21,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Finance](#finance)
 - [Fitness and Health](#fitness-and-health)
 - [Fitness and Health](#fitness-and-health)
+- [Philosophy](#philosophy)
 - [Miscellaneous](#miscellaneous)
 
 ## Technical Assistance
@@ -75,6 +76,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Hacker Art](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0) - Crafts hacker-themed art and profile pictures.
 - [Image Generation with Self-Critique Improvement](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement) - AI-driven image creation with iterative self-improvement capabilities.
 - [Inspirer](https://chat.openai.com/g/g-vhXkUJiE4-inspirer) - A bot that writes inspirational speeches
+- [Interactive Writer](https://chat.openai.com/g/g-AaKhBisIN-interactive-writer) - Bring GPT Writing Skills to the Next Level.
 - [Luminous Logos](https://chat.openai.com/g/g-Jpx5zBJUC-luminous-logos) - Craft eye catching logos and icons with a special vibrant gradient touch.
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
 - [Midjourney Prompt Generator](https://chat.openai.com/g/g-9PDMI3Fqr-midjourney-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
@@ -202,6 +204,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [MediTrainNHS](https://chat.openai.com/g/g-RCz7BkyQJ-meditrainnhs) - An unofficial assistant for current and prospective NHS doctors in training, with extensive NHS-related knowledge.
 - [MSRA Coach](https://chat.openai.com/g/g-MVzmdzbO3-msra-coach) - Unofficial Multi-Specialty Recruitment Assessment (MSRA) Coach and Exam Preparation Mentor.
 - [MyScale Free Knowledge Base](https://chat.openai.com/g/g-193M4NO0q-chat-with-free-knowledge-base) - Elevate your chat experience with enriched knowledge from ArXiv and Wikipedia.
+- [Personal and mental coach](https://chat.openai.com/g/g-A8GlPC3MV-personal-and-mental-coach) - Personal and Mental Coach for Maximizing Potential and Overcoming Challenges.
 - [Personal career consultant](https://chat.openai.com/g/g-C5Arm3zGj-personal-career-consultant) - Update your CV, pass a test interview, build a personal career map.
 - [Research Methods Mentor](https://chat.openai.com/g/g-NEZ1m7XRz-research-methods-mentor) - Get highly trained expert advice on methods of social science research
 - [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences) - Discover the latest trends in  STEM disciplines
@@ -254,6 +257,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) - Organizes and tracks medication schedules.
 - [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) - I help gardeners grow their plants and offer visual aids if needed.
 - [Weight Loss Scientist](https://chat.openai.com/g/g-JNl86bHVQ-weight-loss-scientist) - A scientist specializing in healthy, holistic weight loss methods.
+
+## Philosophy
+- [The Delphi Oracle](https://chat.openai.com/g/g-coVon6Rzr-the-delphi-oracle) - Your sage guidance in life.
 
 ## Miscellaneous
 - [ACSII Text Art](https://chat.openai.com/g/g-G7eF51owY-acsii-text-art) - Convert text into creative ACSII art.
