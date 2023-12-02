@@ -208,8 +208,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Personal and mental coach](https://chat.openai.com/g/g-A8GlPC3MV-personal-and-mental-coach) - Personal and Mental Coach for Maximizing Potential and Overcoming Challenges.
 - [Personal career consultant](https://chat.openai.com/g/g-C5Arm3zGj-personal-career-consultant) - Update your CV, pass a test interview, build a personal career map.
 - [Research Methods Mentor](https://chat.openai.com/g/g-NEZ1m7XRz-research-methods-mentor) - Get highly trained expert advice on methods of social science research
-- [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences) - Discover the latest trends in  STEM disciplines
-- [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences) - Discover the latest trends in social sciences and other disciplines
+- [Research Radar: Spot emerging trends in the latest research](https://chat.openai.com/g/g-FLBd4CBt1-research-radar) - Discover recent trends in STEM, social science, and humanities research
 - [Scientific Research Digest](https://chat.openai.com/g/g-XrX7bd1HU-scientific-research-digest) - Finds and summarizes recent papers in biology, chemistry, and biomedical sciences.
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Research assistant for scientific papers.
 - [Scribble](https://chat.openai.com/g/g-yUDoGVzPy-scribble) - Dynamic AI for creative and unconventional ideas
