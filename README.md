@@ -174,6 +174,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Visual Racter](https://chat.openai.com/g/g-7syRqVmHu-visual-racter) - A next generation version of a wacky, peculiar, chatbot called Racter from 1984
 - [StoryInteractive](https://chat.openai.com/g/g-uUHZMlJpa-storyinteractive) - Create, Play and Experience your own fully illustrated interactive fiction stories, endless adventures
 - [WrongGPT](https://chat.openai.com/g/g-DhOutKD2I-wronggpt) - Answers questions confidently and incorrectly
+- [YodaGPT](https://chat.openai.com/g/g-7KhwWpXMz-yodagpt) - Chat with Yoda about any question in the Galaxy
 - [Zodiac Chuckler](https://chat.openai.com/g/g-Coph8tZoq-zodiac-chuckler) - Your daily dose of zodiac-based humor and light-hearted advice.
 
 ## Education and Learning
