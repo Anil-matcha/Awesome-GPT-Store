@@ -124,7 +124,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Shell Expert Pro](https://chat.openai.com/g/g-jaiZcNIme-shell-expert-pro) - Efficient shell script engineer, offers detailed explanations on request.
 - [Software Architecture Visualiser](https://chat.openai.com/g/g-FJhVmVrg8-software-architecture-visualiser) - Helps to visualize your software architecture using PlantUML diagrams.
 - [Test Double](https://chat.openai.com/g/g-yK9Ggt181-test-double) - Expert in creating diverse test data for development needs in various formats.
-- [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
+- [[latest] Vue.js GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
+- [[latest] FastAPI GPT](https://chat.openai.com/g/g-BhYCAfVXk-latest-fastapi-gpt) - Up-to-date FastAPI coding assistant with knowledge of the latest version. Part of the [latest] GPTs family.
+- [[latest] Tailwind CSS](https://chat.openai.com/g/g-qrreXSScH-latest-tailwind-css-gpt) - An up-to-date Tailwind CSS assistant, with knowledge of the latest features. Member of the [latest] GPTs family.
 - [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) - Perform 3rd party software security review.
 
 ## Entertainment and Fun
