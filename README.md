@@ -39,6 +39,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [File Converter](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) - Assists in converting files between different formats.
 - [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata) - Upload and generate metadata for image and text files.
 - [Gantt Chart GPT](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt) - This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)
+- [GPT Action Builder](https://chat.openai.com/g/g-a3N9FUZLN-gpt-action-builder) - Helps users setup an action for a custom GPT, including configuration of the API specification
 - [GPT Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide) - Helpful and informative.
 - [GPT-Searcher](https://chat.openai.com/g/g-N3lcOTajR-gpt-searcher) - I find the perfect GPT for your needs and guide you there with a fun description!
 - [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
@@ -55,7 +56,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
 - [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier) - Expand simple text searches with multiple related search options. 
 - [Summary Sage with tags](https://chat.openai.com/g/g-UV2FOzD60-summary-sage-with-tags) - Expert in summarizing and categorizing
-
+- [SEO Expert](https://chat.openai.com/g/g-URU8tnZen-seo-expert) - Analyzes websites on various SEO quality metrics and provides expert advice
 - [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
 
 ## Writing and Content Creation
@@ -240,6 +241,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 
 ## Finance
 - [**ForexGPT (Forex Rates)**](https://chat.openai.com/g/g-VpntOrQsh-forex-rates-free-version): Fetches real-time forex and crypto prices, performs market analysis, and calculates currency conversion using the latest exchange rates.
+- [Finance Consultant](https://chat.openai.com/g/g-0XpYXF4Kg-finance-consultant) - Realtime and historical crypto/stock information of all indexes, provides expert insights and advice
 
 ## Fitness and Health
 - [Acne Advisor](https://chat.openai.com/g/g-S3KHl5SZp-acne-advisor) - Acne guidance with a positive, engaging tone
