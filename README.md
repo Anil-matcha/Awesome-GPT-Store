@@ -242,6 +242,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 ## Finance
 - [**ForexGPT (Forex Rates)**](https://chat.openai.com/g/g-VpntOrQsh-forex-rates-free-version): Fetches real-time forex and crypto prices, performs market analysis, and calculates currency conversion using the latest exchange rates.
 - [Finance Consultant](https://chat.openai.com/g/g-0XpYXF4Kg-finance-consultant) - Realtime and historical crypto/stock information of all indexes, provides expert insights and advice
+- [Austin AI: The Financial Advisor](https://chat.openai.com/g/g-yaYByRR5S-austin-ai-the-financial-advisor) - Helps plan finances around taxes, income, expenses, and investments.
 
 ## Fitness and Health
 - [Acne Advisor](https://chat.openai.com/g/g-S3KHl5SZp-acne-advisor) - Acne guidance with a positive, engaging tone
