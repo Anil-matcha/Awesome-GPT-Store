@@ -20,7 +20,6 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Career and Guidance](#career-and-guidance)
 - [Finance](#finance)
 - [Fitness and Health](#fitness-and-health)
-- [Fitness and Health](#fitness-and-health)
 - [Philosophy](#philosophy)
 - [Miscellaneous](#miscellaneous)
 
