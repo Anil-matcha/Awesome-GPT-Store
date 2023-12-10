@@ -228,6 +228,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [U.S. College Advisor for U.K. Students](https://chat.openai.com/g/g-fhRtsoz1Z-u-s-college-advisor-for-u-k-students) - Advisor for U.K. students applying to U.S. colleges.
 - [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) - I'm your go-to guide for all things gaming, from strategies to streamers!
 - [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt) - I provide information from Wikipedia and links to further reading.
+- [OpenData Explorer](https://chat.openai.com/g/g-1ZBK8qUZ1-opendata-explorer) - I'll help you access and understand data published by the central government, local authorities, and public bodies. You can ask me in your native language.
 
 ## Career and Guidance
 - [Career Coach](https://chat.openai.com/g/g-mCI8EIt9X-career-coach) - Find the job you want with career pathing, job listings search, mock interviews, and resume review.
