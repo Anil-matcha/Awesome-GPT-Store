@@ -69,6 +69,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Cover Letter GPT](https://chat.openai.com/g/g-MYSzNumup-cover-letter-gpt) - Expert in creating tailored cover letters based on job descriptions
 - [Dalle3 Prompt Generator](https://chat.openai.com/g/g-SRCi7viea-dalle3-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
 - [Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator) - Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
+- [Editing Guru](https://chat.openai.com/g/g-AZKC67NTa-editing-guru) - Your ultimate solution for improving, reviewing, and rewriting texts.
 - [Esports Logo Creator](https://chat.openai.com/g/g-2GXckoSaK-esports-logo-creator) - Create a professional esports logo for you or your team.
 - [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom) - Extracts key insights from texts.
 - [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Fact checks web pages, documents, assertions and calculations and returns links for verification.
@@ -93,6 +94,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Storyteller](https://chat.openai.com/g/g-dmgFloZ5w-storyteller) - Weaves stories with a blend of writing and design.
 - [Swiftify](https://chat.openai.com/g/g-6TtZAfPrw-swiftify) - AI Taylor Swift Songwriting Companion
 - [Survey Done](https://chat.openai.com/g/g-uB7BUrjRI-survey-done) - AI Survey Builder w/ open source and self-hosted options.
+- [The Guided Writer](https://chat.openai.com/g/g-spa305Ewq-the-best-guided-writer) - This GPT crafts customized articles by asking you questions, ensuring content that precisely matches your requirements and preferences.
 - [UX Advisor](https://chat.openai.com/g/g-5SDP6CS1W-ux-advisor) - Get UX feedback by uploading an image or by defining your problem.
 - [Viral YouTube Ideas by Ideacadabra](https://chat.openai.com/g/g-yGCt9ZipA-viral-youtube-video-ideas-by-ideacadabra) - YouTube Creators! I personalize viral video ideas for your channel.
 - [Wild Geometrica](https://chat.openai.com/g/g-LnpmXIlFt-wild-geometrica) - Structured shapes dance with untamed creatures, painting a canvas of awe and wonder. A MindRenders.com GPT.
@@ -194,6 +196,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Conceptmap](https://chat.openai.com/g/g-ce1JVgzLI-conceptmap) - Create concepts and structure them in a map. Keep ideas and retrieve them whenever you need them.
 - [Daily AI Research Digest](https://chat.openai.com/g/g-Z4yeZHkyy-daily-ai-research-digest) - Finds and summarizes the latest AI papers in your field.
 - [Daily Research Digest](https://chat.openai.com/g/g-Nmhk1adrD-daily-research-digest) - Finds and summarizes the latest academic papers in your field.
+- [Debate wars]( https://chat.openai.com/g/g-3f6WLJxOX-debate-wars) - Just provide a topic or question in your spoken language to start a ChatGpt vs ChatGpt debate battle.
 - [DeepGame](https://chat.openai.com/g/g-TzI2BlJPT-deepgame) - Visual Interactive Story Game. You decide what to do next.
 - [EconomicsGPT](https://chat.openai.com/g/g-7McsRKuPS-economicsgpt) - Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) - a daily challenge
@@ -267,6 +270,8 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Weight Loss Scientist](https://chat.openai.com/g/g-JNl86bHVQ-weight-loss-scientist) - A scientist specializing in healthy, holistic weight loss methods.
 
 ## Philosophy
+- [Morpheus]( https://chat.openai.com/g/g-bszGmASOG-into-the-matrix) - Neo, let Morpheus guide you to enter the Matrix.
+- [The philosopher]( https://chat.openai.com/g/g-1KGHmUIWk-the-philosopher) - I am a philosopher. I am here to weave a tapestry of understanding through shared inquiry.
 - [The Delphi Oracle](https://chat.openai.com/g/g-coVon6Rzr-the-delphi-oracle) - Your sage guidance in life.
 
 ## Miscellaneous
