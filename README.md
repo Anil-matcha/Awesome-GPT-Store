@@ -113,6 +113,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Create Coding Tutorials](https://chat.openai.com/g/g-yCng8eadJ-create-coding-tutorials) - Takes your code and develops a self-paced tutorial for your students.
 - [Developer Doc Search](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search) - Searches open source packages and their documentation.
 - [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togheter, right now..
+- [FastAPI GPT](https://chat.openai.com/g/g-BhYCAfVXk-latest-fastapi-gpt) - Up-to-date FastAPI coding assistant with knowledge of the latest version. Part of the [latest] GPTs family.
 - [Flowbite GPT](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt) - Create websites based on the Flowbite UI Library and Tailwind CSS.
 - [Flutter App Maker 3000](https://chat.openai.com/g/g-sizZKl9zO-flutter-app-maker-3000) - A hands-on guide for building Flutter apps step by step.
 - [FramerGPT](https://chat.openai.com/g/g-MXpLvufG8-framergpt) - Generate Framer code components and overrides.
@@ -125,8 +126,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant) - I offer tested, secure coding solutions with no patience-testing.
 - [Shell Expert Pro](https://chat.openai.com/g/g-jaiZcNIme-shell-expert-pro) - Efficient shell script engineer, offers detailed explanations on request.
 - [Software Architecture Visualiser](https://chat.openai.com/g/g-FJhVmVrg8-software-architecture-visualiser) - Helps to visualize your software architecture using PlantUML diagrams.
+- [Tailwind CSS](https://chat.openai.com/g/g-qrreXSScH-latest-tailwind-css-gpt) - An up-to-date Tailwind CSS assistant, with knowledge of the latest features. Member of the [latest] GPTs family.
 - [Test Double](https://chat.openai.com/g/g-yK9Ggt181-test-double) - Expert in creating diverse test data for development needs in various formats.
-- [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
+- [Vue.js GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
 - [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) - Perform 3rd party software security review.
 
 ## Entertainment and Fun
