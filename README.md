@@ -78,6 +78,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Image Generation with Self-Critique Improvement](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement) - AI-driven image creation with iterative self-improvement capabilities.
 - [Inspirer](https://chat.openai.com/g/g-vhXkUJiE4-inspirer) - A bot that writes inspirational speeches
 - [Interactive Writer](https://chat.openai.com/g/g-AaKhBisIN-interactive-writer) - Bring GPT Writing Skills to the Next Level.
+- [Job Description (JD) GPT](https://chat.openai.com/g/g-Q6MviVtII-job-description-jd-gpt) - Stop copying job descriptions. Use this GPT to generate unique JDs.
 - [Luminous Logos](https://chat.openai.com/g/g-Jpx5zBJUC-luminous-logos) - Craft eye catching logos and icons with a special vibrant gradient touch.
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - Creates humorous and engaging memes.
 - [Midjourney Prompt Generator](https://chat.openai.com/g/g-9PDMI3Fqr-midjourney-prompt-generator) - Let me convert your ordinary imagination into an extraordinary creation.
@@ -126,6 +127,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant) - I offer tested, secure coding solutions with no patience-testing.
 - [Shell Expert Pro](https://chat.openai.com/g/g-jaiZcNIme-shell-expert-pro) - Efficient shell script engineer, offers detailed explanations on request.
 - [Software Architecture Visualiser](https://chat.openai.com/g/g-FJhVmVrg8-software-architecture-visualiser) - Helps to visualize your software architecture using PlantUML diagrams.
+- [Text To HTML/CSS](https://chat.openai.com/g/g-OyvcSIJMJ-text-to-html-css) - Converts text to styled HTML/CSS.
 - [Tailwind CSS](https://chat.openai.com/g/g-qrreXSScH-latest-tailwind-css-gpt) - An up-to-date Tailwind CSS assistant, with knowledge of the latest features. Member of the [latest] GPTs family.
 - [Test Double](https://chat.openai.com/g/g-yK9Ggt181-test-double) - Expert in creating diverse test data for development needs in various formats.
 - [Vue.js GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
@@ -236,6 +238,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [OpenData Explorer](https://chat.openai.com/g/g-1ZBK8qUZ1-opendata-explorer) - I'll help you access and understand data published by the central government, local authorities, and public bodies. You can ask me in your native language.
 
 ## Career and Guidance
+- [AI Interviewer](https://chat.openai.com/g/g-Zfh3GvyJj-ai-interviewer) - Analyzes resumes and job descriptions, conducts interviews, and offers candidate evaluations.
 - [Career Coach](https://chat.openai.com/g/g-mCI8EIt9X-career-coach) - Find the job you want with career pathing, job listings search, mock interviews, and resume review.
 - [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor) - Empathetic career counselor offering guidance and market insights
 - [Cognitive Behavioral Therapist](https://chat.openai.com/g/g-QvVtRHZeB-cognitive-behavioral-therapist) - Your CBT counselor to talk you through anxious and stressful situations.
@@ -248,6 +251,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [**ForexGPT (Forex Rates)**](https://chat.openai.com/g/g-VpntOrQsh-forex-rates-free-version): Fetches real-time forex and crypto prices, performs market analysis, and calculates currency conversion using the latest exchange rates.
 - [Finance Consultant](https://chat.openai.com/g/g-0XpYXF4Kg-finance-consultant) - Realtime and historical crypto/stock information of all indexes, provides expert insights and advice
 - [Austin AI: The Financial Advisor](https://chat.openai.com/g/g-yaYByRR5S-austin-ai-the-financial-advisor) - Helps plan finances around taxes, income, expenses, and investments.
+- [Warren Buffet Assistant](https://chat.openai.com/g/g-IcWgbWZR7-warren-buffet-assistant) - Navigating the path to financial wisdom.
 
 ## Fitness and Health
 - [Acne Advisor](https://chat.openai.com/g/g-S3KHl5SZp-acne-advisor) - Acne guidance with a positive, engaging tone
