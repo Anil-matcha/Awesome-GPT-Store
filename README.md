@@ -299,6 +299,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Image Collage](https://chat.openai.com/g/g-UaXXt6DdU-image-collage) - Upload your images and create a collage.
 - [Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark) - Upload and watermark your image files.
 - [Investor GPT](https://chat.openai.com/g/g-XLPH8Cfph-investor-gpt) - Seamless investor matching for founders.
+- [Italian Invoice - Consulente IA per le fatture elettroniche](https://chat.openai.com/g/g-HLFuSITyg-consulente-ia-per-le-fatture-elettroniche) - Italian GPT for generate a standard italian invoice in xml format.
 - [ISO](https://chat.openai.com/g/g-kPQjsGEA5-iso) - International Organization for Standardization (ISO) guide.
 - [Lunch Wheel](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel) - Helps you decide where to eat based on where you are and what you're in the mood for. Spin the wheel!
 - [Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value) - Used marketplace listing helper.
