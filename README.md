@@ -124,6 +124,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Learn AI in Fun Way](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way) - A humorous ML trainer who teaches with jokes and quizzes, making learning AI entertaining and enjoyable.
 - [Mindmap](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap) - Assists in creating structured mind maps for organizing thoughts and ideas.
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Assists with Ruby programming.
+- [Ruby on Rails Guru](https://chat.openai.com/g/g-feiuosKrt-ruby-on-rails-guru) - Assist with Ruby on Rails development with the most recent documentation for Stimulus, Turbo, Strada, etc. 
 - [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant) - I offer tested, secure coding solutions with no patience-testing.
 - [Shell Expert Pro](https://chat.openai.com/g/g-jaiZcNIme-shell-expert-pro) - Efficient shell script engineer, offers detailed explanations on request.
 - [Software Architecture Visualiser](https://chat.openai.com/g/g-FJhVmVrg8-software-architecture-visualiser) - Helps to visualize your software architecture using PlantUML diagrams.
