@@ -87,6 +87,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Newspaper Maker](https://chat.openai.com/g/g-SRHSPE2Q6-newspaper-maker) - Unbiased newspaper creator and recreator.
 - [NSF Proposal Partner](https://chat.openai.com/g/g-00Nu0FoNA-nsf-proposal-partner) - Your assistant for writing NSF grant proposals, trained on past successful proposals.
 - [PresentationGPT](https://chat.openai.com/g/g-6fEHnJPXY-presentationgpt) - AI bot specializing in creating presentation outlines
+- [Presentation Architect](https://chat.openai.com/g/g-gnM4CjCZz-presentation-architect) - PPT Expert in crafting stunning, detailed PowerPoint presentations, from research to final product. I'm your go-to for #PowerPointPerfection, turning in-depth research into visually striking presentations. #PPTExpert #DesignWizard
 - [ProductGPT](https://chat.openai.com/g/g-GUjYfiBrG-productgpt) - Your Ultimate Product Naming and Description Assistant
 - [Quill](https://chat.openai.com/g/g-FqN5gHFkP-quill) - Write blogs like a human
 - [Quotes & Clips](https://chat.openai.com/g/g-WIzvJxZqt-quotes-clips) - Create quotes and take portions from text documents.
