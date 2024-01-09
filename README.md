@@ -73,6 +73,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Esports Logo Creator](https://chat.openai.com/g/g-2GXckoSaK-esports-logo-creator) - Create a professional esports logo for you or your team.
 - [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom) - Extracts key insights from texts.
 - [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Fact checks web pages, documents, assertions and calculations and returns links for verification.
+- [Formatter Pro](https://chat.openai.com/g/g-ZGthKtMY1-formatter-pro) - Expert in converting text to a professionally formatted pdf document
 - [GPT Enhancer](https://chat.openai.com/g/g-fQ6GAANfi-gpt-enhancer) - AI assistant for refining GPT instructions with a focus on user experience and continuous AI learning.
 - [Hacker Art](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0) - Crafts hacker-themed art and profile pictures.
 - [Image Generation with Self-Critique Improvement](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement) - AI-driven image creation with iterative self-improvement capabilities.
@@ -100,6 +101,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [UX Advisor](https://chat.openai.com/g/g-5SDP6CS1W-ux-advisor) - Get UX feedback by uploading an image or by defining your problem.
 - [Viral YouTube Ideas by Ideacadabra](https://chat.openai.com/g/g-yGCt9ZipA-viral-youtube-video-ideas-by-ideacadabra) - YouTube Creators! I personalize viral video ideas for your channel.
 - [Wild Geometrica](https://chat.openai.com/g/g-LnpmXIlFt-wild-geometrica) - Structured shapes dance with untamed creatures, painting a canvas of awe and wonder. A MindRenders.com GPT.
+- [Word Whisperer](https://chat.openai.com/g/g-1tn9SOAC3-word-whisperer) - A literary genius who provides the perfect words for any situation
 - [ZILL·O](https://chat.openai.com/g/g-GvEjrjX6o-zill-o) - is here
 - [❤️](https://chat.openai.com/g/g-pYZlrNIR8-) - with love
 
@@ -142,6 +144,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.
 - [ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator) - Automated teller machine (ATM) simulator.
 - [BlackjackGPT](https://chat.openai.com/g/g-LptUSKHwc-blackjackgpt) - Blackjack Simulator
+- [Book Haven](https://chat.openai.com/g/g-Uo0z4tVs1-book-haven) - A librarian providing personalized book recommendations
 - [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt) - Create your own gemstone bracelets with live 3D
 - [Celebrity Critter Creator](https://chat.openai.com/g/g-moHqu685w-celebrity-critter-creator) - Create funny mashups of famous celebrities with animals
 - [Character Chat](https://chat.openai.com/g/g-io8IgJKMR-character-chat) - Have a realistic chat with any historical figure or character. Always stays in character.
@@ -162,7 +165,10 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Hoodie Creator](https://chat.openai.com/g/g-QWziThdPK-hoodie-creator) - The fashion designer for creating wonderful hoodies
 - [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
 - [Makeup Maven](https://chat.openai.com/g/g-XJ1gJkBcQ-makeup-maven) - An expert in makeup products, providing tailored recommendations based on preferences and skin types.
+- [Movie Buff Buddy](https://chat.openai.com/g/g-AQzizlyAP-movie-buff-buddy) - Passionate movie expert providing tailored recommendations and streaming info
 - [Music Bot](https://chat.openai.com/g/g-2CmnN7kuF-music-bot) - Lyric writing, genre identification, and beat suggestions
+- [Mystery Master](https://chat.openai.com/g/g-aJyymbpV0-mystery-master) - Mysterious game master creating immersive, story-driven escape games
+- [Mythic Master](https://chat.openai.com/g/g-JRp0dsGAS-mythic-master) - The ultimate game master for fun interactive story games, featuring dice rolls and screenshots
 - [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters, from the user's photos.
 - [Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker) - Quick-response random character game.
 - [Romance](https://chat.openai.com/g/g-p4L4KuEdO-romance) - Your AI companion for romantic advice and conversations.
@@ -191,6 +197,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
 - [AskGod](https://chat.openai.com/g/g-K9xssvkZt-askgod) - Answers questions about the Bible and God.
 - [Bhagavad Gita Guide](https://chat.openai.com/g/g-MzIE52wA6-bhagavad-gita-guide) - Guidance from Bhagavad Gita for life's challenges, in user's language.
+- [Biology Buddy](https://chat.openai.com/g/g-QaWziGZb9-biology-buddy) - A life sciences teacher that can explain and demonstrate any topic with images and text. 
 - [Celebrity Book Finder](https://chat.openai.com/g/g-AY82KxZMH-celebrity-book-finder) - Find out what celebrities are reading!
 - [ChaatGPT](https://chat.openai.com/g/g-kwJqxVgql-chaatgpt) - U.S. College Advisor for Indian Students
 - [ChatGTO](https://chat.openai.com/g/g-xk7H68HgQ-chatgto) - Your personalized poker coach. Analyze your hands using game theory optimal (GTO) principles.
