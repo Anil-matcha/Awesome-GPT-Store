@@ -306,6 +306,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Lunch Wheel](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel) - Helps you decide where to eat based on where you are and what you're in the mood for. Spin the wheel!
 - [Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value) - Used marketplace listing helper.
 - [Meeting Place](https://chat.openai.com/g/g-h91vaXdbQ-meeting-place) - Find the optimal location for your meeting.
+- [Morse Code Translator](https://chat.openai.com/g/g-OBGDiUTNx-morse-code-translator) - Converts text to Morse code and vice versa.
 - [MyGovAdvisor](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor) - I'm a multilingual Government Agent - I'm here to assist you with any public service request
 - [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide) - Identifies plants & fungi from images and shares facts and folklore.
 - [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents by [ocr.chat](https://get.ocr.chat/gpt)
