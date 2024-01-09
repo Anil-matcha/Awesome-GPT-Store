@@ -231,6 +231,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Six-Y](https://chat.openai.com/g/g-nMt5YfTeF-six-y) - Explains everything like you are 6 years old, and also paints an image of it.
 - [Spanish Friend](https://chat.openai.com/g/g-p5dJAcoT8-spanish-friend-language-conversation-improver) - Talk with me through some real-life scenarios and I will help you improve your foreign language skills through practice, translations and improvements.
 - [Syllabus Builder](https://chat.openai.com/g/g-ZS0jp3SJW-syllabus-builder) - Your personal instructional designer.
+- [School Test Creator](https://chat.openai.com/g/g-LRVWLKKAb-school-test-creator) - Create your tests or exams from photos of your book, check your solutions, and learn from your mistakes.
 - [U.S. College Advisor for Ethiopian Students](https://chat.openai.com/g/g-O29TG79Q8-u-s-college-advisor-for-ethiopian-students) - Advisor for Ethiopian students applying to U.S. colleges, offering tailored, supportive guidance.
 - [U.S. College Advisor for Japanese Students](https://chat.openai.com/g/g-3QpKtpkKn-u-s-college-advisor-for-japanese-students) - Friendly, informative advisor for Japanese students on U.S. college applications.
 - [U.S. College Advisor for South Korean Students](https://chat.openai.com/g/g-z4Dx0V5HB-u-s-college-advisor-for-south-korean-students) - Mentor for South Korean students on U.S. college applications
