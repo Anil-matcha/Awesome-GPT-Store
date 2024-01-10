@@ -272,6 +272,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Meal Mate](https://chat.openai.com/g/g-q0YZFTXKs-meal-mate) - The Ultimate Meal Planning Assistant: Plan Around Dietary Restrictions, Budgetary Constraints, Nutritional Goals, Taste Preferences, & More!
 - [MyNutrition.Pal](https://chat.openai.com/g/g-PsK6IFvcV-mynutrition-pal) - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
 - [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in and off the field
+- [Physio GPT](https://chat.openai.com/g/g-GrJ3OWWU7-physio-gpt) - Medical assistant for therapists on initial symptom diagnosis.
 - [Physique Coach](https://chat.openai.com/g/g-nAVBYsZ93-physique-coach) - Analyzing progress, setting goals, and giving feedback on your training plans.
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) - Organizes and tracks medication schedules.
 - [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) - I help gardeners grow their plants and offer visual aids if needed.
