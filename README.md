@@ -5,6 +5,8 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 
 👉 Show your support by giving this repository a star! ⭐
 
+👉 Want to add authentication to your GPT ? Check out https://gpt-auth.com/
+
 👉 Check out the Custom GPT Store Finder to chat with ChatGPT and get GPT recommendations from the data in this repo https://chat.openai.com/g/g-JRQEmbuM9-gpt-store-finder or from the website https://www.thesamur.ai/custom-gpt-store
 
 👉 Follow me on Twitter for updates! https://twitter.com/matchaman11
