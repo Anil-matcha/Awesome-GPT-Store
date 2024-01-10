@@ -136,6 +136,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Test Double](https://chat.openai.com/g/g-yK9Ggt181-test-double) - Expert in creating diverse test data for development needs in various formats.
 - [Vue.js GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
 - [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) - Perform 3rd party software security review.
+- [Rust Mentor](https://chat.openai.com/g/g-DDKjGVW8S-rust-mentor) - A Rust programming language instructor for beginners.
 
 ## Entertainment and Fun
 - [20 Questions](https://chat.openai.com/g/g-tDUzfZTxo-20-questions) - Play the game "20 Questions" against ChatGPT
