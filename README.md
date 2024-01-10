@@ -195,6 +195,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [WrongGPT](https://chat.openai.com/g/g-DhOutKD2I-wronggpt) - Answers questions confidently and incorrectly
 - [YodaGPT](https://chat.openai.com/g/g-7KhwWpXMz-yodagpt) - Chat with Yoda about any question in the Galaxy
 - [Zodiac Chuckler](https://chat.openai.com/g/g-Coph8tZoq-zodiac-chuckler) - Your daily dose of zodiac-based humor and light-hearted advice.
+- [Drunk GPT](https://chat.openai.com/g/g-DLnASWkFu-drunk-gpt) - Converse with GPT in a funny way.
 
 ## Education and Learning
 - [5 Levels](https://chat.openai.com/g/g-93zIc4RX8-5-levels) - Describing any topic or subject in 5 levels of detail. Inspired by the "WIRED 5 Levels" video series.
@@ -267,6 +268,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Finance Consultant](https://chat.openai.com/g/g-0XpYXF4Kg-finance-consultant) - Realtime and historical crypto/stock information of all indexes, provides expert insights and advice
 - [Austin AI: The Financial Advisor](https://chat.openai.com/g/g-yaYByRR5S-austin-ai-the-financial-advisor) - Helps plan finances around taxes, income, expenses, and investments.
 - [Warren Buffet Assistant](https://chat.openai.com/g/g-IcWgbWZR7-warren-buffet-assistant) - Navigating the path to financial wisdom.
+- [Speculator's Friend](https://chat.openai.com/g/g-WysFIeFyH-speculator-s-friend) - Suggests investment ideas based on recent analysis.
 
 ## Fitness and Health
 - [Acne Advisor](https://chat.openai.com/g/g-S3KHl5SZp-acne-advisor) - Acne guidance with a positive, engaging tone
