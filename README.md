@@ -187,6 +187,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
 - [Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game) - Initially, you're 25 steps away from the treasure, but the exact direction is a mystery.
 - [Truth or Dare Wizard](https://chat.openai.com/g/g-TJ7scFIZy-truth-or-dare-wizard) - Enjoy Truth or Dare with fun twists and your choices!
+- [Tweet Segmenter](https://chat.openai.com/g/g-tR9Zg3SfS-tweet-segmenter) - Segment text into tweet-sized parts with a counter.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.
 - [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker) - Spice up your meetings, events, or trainings with fun icebreakers
 - [Visual Racter](https://chat.openai.com/g/g-7syRqVmHu-visual-racter) - A next generation version of a wacky, peculiar, chatbot called Racter from 1984
