@@ -162,6 +162,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator) - I turn your text into Emoji
 - [Excalibur](https://chat.openai.com/g/g-lV3kVHYcz-excalibur) - Attempt to pull the legendary sword from the stone.
 - [From Another Time](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time) - Talk to anyone, visit a place, past or future.
+- [Gossip Post](https://chat.openai.com/g/g-QLarT2zo1-gossip-post) - Post and get latest gossips for people.
 - [Guess a Word](https://chat.openai.com/g/g-QiPBZt4Zo-guess-a-word) - Discover words through images in 'Guess a Word', where each picture is a puzzle waiting to be solved!
 - [GPTarantinofy](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy) - Turns anything into a Tarantino styled scene.
 - [GyattGPT](https://chat.openai.com/g/g-sqEQTZpDf-gyattgpt) - GPT with Gen Z lingo
