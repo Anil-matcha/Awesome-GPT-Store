@@ -199,6 +199,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Drunk GPT](https://chat.openai.com/g/g-DLnASWkFu-drunk-gpt) - Converse with GPT in a funny way.
 
 ## Education and Learning
+- [MindStream](chat.openai.com/g/g-7EWovgPuJ-mindstream) - Unleash your creativity with the ultimate visualization, summary and notes creation tool. Press R to begin!
 - [5 Levels](https://chat.openai.com/g/g-93zIc4RX8-5-levels) - Describing any topic or subject in 5 levels of detail. Inspired by the "WIRED 5 Levels" video series.
 - [AI Daily Digest](https://chat.openai.com/g/g-th685hNma-ai-daily-digest) - Stay up-to-date on the latest AI news and research.
 - [Anki Master](https://chat.openai.com/g/g-lJ8YsPj51-anki-master) - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
