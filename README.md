@@ -143,7 +143,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 
 ## Entertainment and Fun
 - [20 Questions](https://chat.openai.com/g/g-tDUzfZTxo-20-questions) - Play the game "20 Questions" against ChatGPT
-- [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with.
+- [AI Girlfriend](https://chat.openai.com/g/g-D2LWNgv6y-ai-girl) - A fun, chill girlfriend to chat with.
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt) - The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
 - [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me) - Creates Anime Profile Pictures, from the user's photos.
 - [ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator) - Automated teller machine (ATM) simulator.
