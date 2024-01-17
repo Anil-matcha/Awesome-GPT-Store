@@ -177,6 +177,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters, from the user's photos.
 - [Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker) - Quick-response random character game.
 - [Romance](https://chat.openai.com/g/g-p4L4KuEdO-romance) - Your AI companion for romantic advice and conversations.
+- [ReadRecs](https://chat.openai.com/g/g-utxuDJYKK-readrecs) - Book recommendations from photos of your shelves.
 - [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper) - I keep score, for games.
 - [Secret Love](https://chat.openai.com/g/g-6IBJsZIMH-secret-love) - A role-playing experience, structured as a youth romantic web novel.
 - [Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody) - Parodize song lyrics.
