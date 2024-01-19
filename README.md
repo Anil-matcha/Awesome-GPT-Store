@@ -231,6 +231,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Moon Watcher](https://chat.openai.com/g/g-6saRzdc7g-moon-watcher) - I identify today's trending stocks and cryptocurrencies and explain why they're moving. Not financial advice.
 - [Motivated for Mandarin](https://chat.openai.com/g/g-hnYAvJChZ-motivated-for-mandarin) - A helpful guide for learning Mandarin, offering lessons, translation, interpretation and motivation.
 - [MediTrainNHS](https://chat.openai.com/g/g-RCz7BkyQJ-meditrainnhs) - An unofficial assistant for current and prospective NHS doctors in training, with extensive NHS-related knowledge.
+- [MindStream](chat.openai.com/g/g-7EWovgPuJ-mindstream) - Unleash your creativity with the ultimate visualization, summary and notes creation tool. Press R to begin!
 - [MSRA Coach](https://chat.openai.com/g/g-MVzmdzbO3-msra-coach) - Unofficial Multi-Specialty Recruitment Assessment (MSRA) Coach and Exam Preparation Mentor.
 - [MyScale Free Knowledge Base](https://chat.openai.com/g/g-193M4NO0q-chat-with-free-knowledge-base) - Elevate your chat experience with enriched knowledge from ArXiv and Wikipedia.
 - [Personal and mental coach](https://chat.openai.com/g/g-A8GlPC3MV-personal-and-mental-coach) - Personal and Mental Coach for Maximizing Potential and Overcoming Challenges.
