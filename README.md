@@ -264,6 +264,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Job application consultant](https://chat.openai.com/g/g-FKG1aweuz-job-application-consultant) - Find out how well you fit the job. Provide the job offer you are applying and the resume. You will get an overall rating and a guidance.
 - [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt) - Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 - [Life Coach](https://chat.openai.com/g/g-u9lNVsHab-life-coach) - Transform your dreams into reality by setting goals, creating plans, and taking action.
+- [ProductivityGPTs](https://chat.openai.com/g/g-uDglrkYGg-productivity) - Your go-to guide for boosting productivity.
 
 ## Finance
 - [**ForexGPT (Forex Rates)**](https://chat.openai.com/g/g-VpntOrQsh-forex-rates-free-version): Fetches real-time forex and crypto prices, performs market analysis, and calculates currency conversion using the latest exchange rates.
