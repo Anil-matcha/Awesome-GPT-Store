@@ -350,6 +350,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Weather Whiskers](https://chat.openai.com/g/g-Qb4WOntiy-weatherwhiskers) - I generate a cute weather forecast image in your location, just tell me where you are.
 - [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform) - Helping Users Assert Their Legal Rights Against Airbnb.
 - [时间序列预测专家](https://chat.openai.com/g/g-n6tIz5rIq-shi-jian-xu-lie-yu-ce-zhuan-jia) - Time series prediction expert in Chinese
+- [MovieDealsSnapper GPT](https://chat.openai.com/g/g-T8HWuDfxW-moviedealssnapper-gpt) - Helps you find the best deals on movies and TV shows to buy across multiple platforms. Item is too expensive at the moment? Set it on your wish list an get notified when the price drops! Powered by CheapCharts.
 
 ## Specialized Engineering Disciplines
 - [Ezra](https://chat.openai.com/g/g-VcnrTHoIS-ezra) - Quirky and brilliant Systems Engineering professor, weaving truth and expertise with a touch of whimsy.
