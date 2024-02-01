@@ -53,6 +53,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Prompt Crafter](https://chat.openai.com/g/g-0olkkYtUo-prompt-crafter) - Assists you in creating well-defined prompts effortlessly.
 - [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts
 - [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
+- [Prompt Alchemist](https://chat.openai.com/g/g-xPynMEo7J-the-prompt-alchemist) - Whether it's crafting perfect GPT instructions, writing system prompt or to learn the art of prompt engineering, This GPT is your dedicated expert.
 - [Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary) - Summarize GitHub repository README files.
 - [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
 - [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier) - Expand simple text searches with multiple related search options. 
@@ -127,6 +128,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Full Stack Developer](https://chat.openai.com/g/g-N82dqklAi-full-stack-developer) - I generate code for and fix issues in B2B SaaS web apps.
 - [Game Craft Guru](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru) - Focused game mechanics and design expert.
 - [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt) - Your personal security tool
+- [Jarvis - Infrastructure Engineer Companion](https://chat.openai.com/g/g-7wIkxS9pL-jarvis-infra) - Your AI-Enhanced, interactive and insightful companion for your IT Infrastructure journey. This GPT will help you with anything related to Cloud, DevOps, IT Automation, and more!
 - [Learn AI in Fun Way](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way) - A humorous ML trainer who teaches with jokes and quizzes, making learning AI entertaining and enjoyable.
 - [Mindmap](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap) - Assists in creating structured mind maps for organizing thoughts and ideas.
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Assists with Ruby programming.
