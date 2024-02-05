@@ -201,6 +201,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [YodaGPT](https://chat.openai.com/g/g-7KhwWpXMz-yodagpt) - Chat with Yoda about any question in the Galaxy
 - [Zodiac Chuckler](https://chat.openai.com/g/g-Coph8tZoq-zodiac-chuckler) - Your daily dose of zodiac-based humor and light-hearted advice.
 - [Drunk GPT](https://chat.openai.com/g/g-DLnASWkFu-drunk-gpt) - Converse with GPT in a funny way.
+- [RemGPT](https://chat.openai.com/g/g-lQZTVSBrj-remgpt) - Provides knowledge about the world of Re:zero
 
 ## Education and Learning
 - [5 Levels](https://chat.openai.com/g/g-93zIc4RX8-5-levels) - Describing any topic or subject in 5 levels of detail. Inspired by the "WIRED 5 Levels" video series.
